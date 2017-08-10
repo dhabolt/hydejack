@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  'Algorithm and Data Structure Courses'
-date:   2017-08-09 11:48:00 -0400
-categories: jekyll update
-tags: [algorithms]
+title:  'Algorithms and Data Structures'
+date:   2017-08-10 11:48:00 -0400
+# tags: [algorithms]
 excerpt_separator: <!--more-->
 comments: true
 ---

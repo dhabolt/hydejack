@@ -8,7 +8,7 @@ author: dhabolt
 ## About the Blog
 Periodic ramblings about software development topics that interest me.
 
-Currently created using [Jekyll] and utilizing the [hydejack] theme by [qwtel]. The Jekyll application is run either under the [Windows Subsystem for Linux][linux] or in a [Docker] container, depending on which of my computers I happen to be using at the time.
+Currently created using [Jekyll] and utilizing the [hydejack] theme by [qwtel]. The Jekyll application is run either under the [Windows Subsystem for Linux][linux] or in a [Docker] container (depending on which of my computers I happen to be using at the time).
 
 ## About Me
 ### tl;dr
