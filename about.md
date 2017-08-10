@@ -1,85 +1,36 @@
 ---
 layout: about
-title: About
+title: "About"
 menu: true
 order: 3
+author: dhabolt
 ---
+## About the Blog
+Periodic ramblings about software development topics that interest me.
 
-## Hydejack
-Hydejack is a cutting-edge Jekyll theme that combines the best of static sites and modern web apps. It features a suite of JavaScript that makes the page feel like an app, without sacrificing backwards-compatibility, page-load speed or SEO.
+Currently created using [Jekyll] and utilizing the [hydejack] theme by [qwtel]. The Jekyll application is run either under the [Windows Subsystem for Linux][linux] or in a [Docker] container, depending on which of my computers I happen to be using at the time.
 
-> Your presence on the web --- A [blog], a [portfolio] and a [resume].
-{:.lead}
+## About Me
+### tl;dr
+My name is John Dhabolt and I've been a software developer and architect for over 30 years.
+ 
+### The Rambling Version
+My programming journey began in Oregon in 1985 when my wife and I attended a vacation timeshare presentation, where the free prize for staying through the entire presentation was an Atari 600XL computer (with a whopping 16k of RAM). We got the computer, and no, we didn't buy the timeshare.
 
-It aims to be the complete package for professionals on the web. It features a blog suitable for both prose and technical documentation, a showcase for projects and a resume that fits with the rest of the design.
+Since the internet was a few years away, learning to program meant either going back to school or visiting libraries. At the time, going back to school wasn't an option, so it was off to the library to see what it had to say about computers. I've always found libraries to be a magical place (you can become almost anything with enough time at a library), and we were fortunate enough to live near one of the finest libraries on the planet: The Salem Public Library (in the Oregon capital). For the Atari and similar small home computers, COMPUTE! magazine was the go-to resource, and the library had a great selection of it and other related computing titles. Through the resources at the library, I learned to program in BASIC and assembly.
 
-Open `about.md` to edit this text.
+The following year I traded up to an Atari 800XL (64k of RAM) and added a cassette recorder for storage. While game programming was fun, I had some business ideas that just weren't being met with the type of software available on the Atari. After a trip to a local computer store in 1987, I walked out with a brand new Apple Macintosh and a little known database application development framework called 4th Dimension (still available today at [4D.com][4D]). The choice of databases available on the Macintosh at that time were between Filemaker and 4th Dimension. While Filemaker was the most popular and easiest to learn, 4th Dimension was said to be the most powerful, but with a steep learning curve. For me, the choice was a no brainer.
 
-### Features
-Both the PRO *and* free version includes all of the features listed below:
+Shortly afterward I started a small sole proprietarship (JCD III Systems) that used 4th Dimension to create data-driven applications for clients. As one of my first paid jobs I took over the database programming tasks for an Oregon premium wine distributor (Henny-Hinsdale Wines). After several years of part time and full time consulting jobs through the sole propriertorship, I decided to join another consulting company that was also using 4th Dimension, Touch Media (later Vector Technologies).
 
-* Full in-app page loading --- no Flash of White, no Flash of Unstyled Content[^1]
-* Advanced animations, inspired by Material Design
-* A customizable sidebar that turns into a touch-enabled app drawer on mobile
-* Near-perfect [Google PageSpeed Score](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fqwtel.com%2Fhydejack%2F)[^2]
-* Even higher *perceived speed* thanks to pre-fetching and latency-hiding
-* Support for categories and tags --- even when hosting on GitHub Pages
-* Built-in collection of social media icons
-* Author section below each article and multiple authors
-* Simple and semantic HTML --- can be viewed even with text-based browsers
-* Progressive enhancement --- sacrifice features, not content
-* Google Analytics and Google Fonts support
-* Blog layout with pagination
-* Syntax highlighting
-* Math formulas via LaTeX
-* Disqus comments
-* RSS feed
-* Print layout
+(To be continued...)
 
-Open `about.md` to edit this text.
+John Dhabolt, 2017.08.03
 
-### [Documentation][docs]{:data-flip="title"}
-Hydejack is documented extensively.
-You can read it [on this site][docs], in the [repository's wiki][wiki], or [download the PDF][download].
-
-Open `about.md` to edit this text.
-
-### Download
-There are two versions of Hydejack: The Free Version includes basic blogging functionality,
-as did previous versions of the theme.
-The new PRO Version includes additional features for professionals:
-A [portfolio], a [resume] layout and a [welcome] page to feature your favorite projects and posts.
-
-This table details what is and isn't included in each respective version.
-
-|                                  | Free               | PRO                |
-|:---------------------------------|:------------------:|:------------------:|
-| Blog                             | &#x2714;           | &#x2714;           |
-| Features (see below)             | &#x2714;           | &#x2714;           |
-| [Portfolio] Layout               |                    | &#x2714;           |
-| [Resume] Layout                  |                    | &#x2714;           |
-| [Welcome] Layout                 |                    | &#x2714;           |
-| License                          | [MIT][license]     | [PRO]              |
-| Price                            | Free               | $34                |
-| | [**Download on GitHub**][download]<br/> -- or -- <br/>[**Use the RubyGem**][gem] | [**Buy Now – $34**][buy][^3] |
-
-Open `about.md` to edit this text.
-
-[^1]: Applies after the initial page load.  
-[^2]: Actual page load speed depends on your hosting provider as well as discipline regarding resolution of images and usage of 3rd party plugins.
-[^3]: Transactions secured by [Stripe](https://stripe.com). Downloads handled by [Simple Goods](https://simplegoods.co/).
-
-[blog]: https://qwtel.com/hydejack/blog/
-[portfolio]: https://qwtel.com/hydejack/projects/
-[resume]: https://qwtel.com/hydejack/resume/
-[welcome]: https://qwtel.com/hydejack/
-
-[docs]: docs/6.6.0/index.md
-[license]: LICENSE.md
-[pro]: licenses/PRO-license.md
-
-[download]: https://github.com/qwtel/hydejack/releases/tag/v6.6.0
-[gem]: https://rubygems.org/gems/jekyll-theme-hydejack/versions/6.6.0
-[buy]: https://app.simplegoods.co/i/AQTTVBOE
-
-[wiki]: https://github.com/qwtel/hydejack/wiki
+[Jekyll]: http://jekyllrb.com/
+[minimal]: https://mademistakes.com/work/minimal-mistakes-jekyll-theme/
+[hydejack]: https://qwtel.com/hydejack/
+[qwtel]: https://qwtel.com/about/
+[linux]: https://msdn.microsoft.com/en-us/commandline/wsl/about
+[Docker]: https://www.docker.com/
+[4D]: https://4d.com

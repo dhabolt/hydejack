@@ -2,11 +2,16 @@
 layout: post
 title: 'Third Party Scripts (v6.3)'
 tags: [hydejack]
+excerpt_separator: <!--more-->
 ---
+
+This paragraph (and the one following) should be the only paragraphs displayed in the blog listing. All of the copy after this paragraph should NOT be included.
 
 This release makes including third party plugins easier.
 Until now, the push state approach to loading new pages has been interfering with embedded `script` tags.
 This version changes this by simulating the sequential loading of script tags on a fresh page load.
+
+<!--more-->
 
 This approach should work in a majority of cases, but can still cause problems with scripts that can't be added more than once per page.
 If an issue can't be resolved, there's now the option to disable push state by setting `disable_push_state: true` in `config.yml`.
