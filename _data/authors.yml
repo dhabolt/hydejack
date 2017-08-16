@@ -8,7 +8,10 @@ dhabolt:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Software engineer/architect (25+ years), runner, commercial art enthusiast, pop culturalist, metal guitar playerist, and geek learning Greek.
+    My name is John Dhabolt and I've been a software developer and architect for over 30 years. 
+    I was also President/CEO of an early Java products company in the late 1990s with the 
+    award-winning Roaster Java IDE. In my spare time I'm a runner, commercial art enthusiast, 
+    pop culturalist, metal guitar playerist, and geek learning Greek.
 
   # This photo will be used in the about section
   # picture:

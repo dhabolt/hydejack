@@ -43,3 +43,6 @@ node_modules
 .sass-cache
 .jekyll-metadata
 *.gem
+
+# s3_website
+s3_website.yml

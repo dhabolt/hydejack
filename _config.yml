@@ -106,7 +106,8 @@ plugins:
   - jekyll-sitemap
 
 include:
-  - _pages
+  - pages
+  - 2017
 
 exclude:
   - README.md
