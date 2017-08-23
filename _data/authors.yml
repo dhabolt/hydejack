@@ -10,8 +10,10 @@ dhabolt:
   about:             |
     My name is John Dhabolt and I've been a software developer and architect for over 30 years. 
     I was also President/CEO of an early Java products company in the late 1990s with the 
-    award-winning Roaster Java IDE. In my spare time I'm a runner, commercial art enthusiast, 
-    pop culturalist, metal guitar playerist, and geek learning Greek.
+    award-winning Roaster Java IDE. In my spare time I'm a runner, commercial art enthusiast 
+    (also worked with a past Director of the Society of Illustrators on a side project), pop culturalist (have a 
+    tiny [IMDb listing](https://www.imdb.com/name/nm5602824/) and a [pop culture website](http://www.coveringmedia.com/) currently in deep sleep), metal guitar playerist, 
+    and geek learning Greek (κόσμος χαίρειν).
 
   # This photo will be used in the about section
   # picture:
@@ -29,7 +31,7 @@ dhabolt:
     linkedin:        dhabolt
     github:          dhabolt
     email:           mailto:john@dhabolt.com
-    rss:             https://app6.amanita.bigmudball.com/feed.xml
+  # rss:             feed.xml
 
 # Another author
 mdo:
