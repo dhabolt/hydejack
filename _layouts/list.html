@@ -22,6 +22,17 @@ layout: base
   <hr class="sr-only"/>
 {% endif %}
 
+  <a href="{{ post.url | relative_url }}" data-flip="title">
+    <span>{{ post.title }}</span>
+  </a>
+  <small><time datetime="{{ post.date | date_to_xmlschema }}">
+    {{ post.date | date:format }}
+  </time></small>
+
+<p class="h4"><a href="/daily/2017/08/31/" data-flip="title"><span>Latest Daily Dose</span></a> <small>31 Aug</small></p>
+
+
+
 {% for post in posts %}
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}

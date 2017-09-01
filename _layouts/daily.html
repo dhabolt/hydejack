@@ -1,0 +1,16 @@
+---
+layout: base
+---
+
+<article class="page" role="article">
+  <header>
+    <h1 class="page-title">{{ page.title }}</h1>
+    {{ page.navigation | markdownify }}
+    <div class="hr" style="padding-bottom:0"></div>
+  </header>
+
+  {{ content }}
+
+</article>
+
+<p>{{ page.navigation | markdownify }}</p>

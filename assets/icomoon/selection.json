@@ -2166,6 +2166,9 @@
         "paths": [
           "M832 64h-640l-192 192v672c0 17.674 14.326 32 32 32h960c17.672 0 32-14.326 32-32v-672l-192-192zM512 832l-320-256h192v-192h256v192h192l-320 256zM154.51 192l64-64h586.978l64 64h-714.978z"
         ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
         "tags": [
           "box-add",
           "box",
@@ -2175,21 +2178,46 @@
           "archive"
         ],
         "defaultCode": 59742,
-        "grid": 16,
-        "attrs": []
+        "grid": 16
       },
       "attrs": [],
       "properties": {
         "ligatures": "box-add, box3",
         "name": "box-add",
         "order": 98,
-        "id": 95,
+        "id": 72,
         "prevSize": 32,
         "code": 59742
       },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 72
+    },
+    {
+      "icon": {
+        "paths": [
+          "M1024 590.444l-512-397.426-512 397.428v-162.038l512-397.426 512 397.428zM896 576v384h-256v-256h-256v256h-256v-384l384-288z"
+        ],
+        "tags": [
+          "home",
+          "house"
+        ],
+        "defaultCode": 59648,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "home, house",
+        "name": "home",
+        "order": 2,
+        "id": 1,
+        "prevSize": 32,
+        "code": 59648
+      },
       "setIdx": 1,
       "setId": 1,
-      "iconIdx": 94
+      "iconIdx": 0
     }
   ],
   "height": 1024,
