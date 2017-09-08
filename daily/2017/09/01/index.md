@@ -5,7 +5,7 @@ date:   2017-09-01 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
 published: true
-navigation: '<< [Daily Dose for 2017.08.31](/daily/2017/08/31/) &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; There''s no tomorrow yet >>'
+navigation: '<< [Daily Dose for 2017.08.31](/daily/2017/08/31/) &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.09.02](/daily/2017/09/02/) >>'
 ---
 ## Books on Sale Today ##
 These deals are good for today only, so be sure to take advantage of the pricing today.

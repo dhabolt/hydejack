@@ -1,12 +1,13 @@
 ---
 layout: entity
+permalink: /person/ned-bellavance/
 title:  'Ned Bellavance'
 social:
   home:            https://nedinthecloud.com/
   twitter:         Ned1313
   linkedin:        ned-bellavance-ba68a52
   github:          ned1313
-permalink: /person/ned-bellavance/
+comments: true
 ---
 The following was copied from Ned's [About Me][AboutNed] page on 2017.09.01.
 

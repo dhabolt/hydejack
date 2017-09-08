@@ -1,12 +1,13 @@
 ---
 layout: entity
+permalink: /person/nick-colyer/
 title:  'Nick Colyer'
 social:
   home:            http://2ninjas1blog.com/
   twitter:         vNickC
   linkedin:        nick-colyer-68440212
   github:          nickcolyer
-permalink: /person/nick-colyer/
+comments: true
 ---
 ## Pluralsight Courses  ##
 * [Automating AWS and vSphere with Terraform][automating] (published 2017.06.12) \\
