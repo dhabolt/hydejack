@@ -4,7 +4,7 @@ title:  'Daily Dose for 2017.09.01'
 date:   2017-09-01 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
-published: true
+published: false
 navigation: '<< [Daily Dose for 2017.08.31](/daily/2017/08/31/) &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.09.02](/daily/2017/09/02/) >>'
 ---
 ## Books on Sale Today ##
