@@ -60,8 +60,8 @@ paginate:            5
 paginate_path:       '/page-:num/'
 
 daily_dose: 
-  day: 2017.09.15
-  path: /daily/2017/09/15/
+  day: 16 Sep
+  path: /daily/2017/09/16/
 
 # If you are upgrading form a v5 verison of Hydejack, uncomment the two lines below,
 # so that the location of the feed XML stays the same.

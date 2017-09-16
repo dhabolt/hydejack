@@ -4,13 +4,31 @@ title:  'Daily Dose for 2017.09.13'
 date:   2017-09-13 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
-navigation: '<< [Daily Dose for 2017.09.12](/daily/2017/09/12/) &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.09.14](/daily/2017/09/14/) >>'
+navigation: '<< Daily Dose for 2017.09.12 &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.09.14](/daily/2017/09/14/) >>'
 published: true
 ---
-## Books on Sale Today ##
-These deals are good for today only, so be sure to take advantage of the pricing today.
+## Sections
+* [Books on Sale (or Free) Today](#sale)
+* [Select New Books and Courses](#select)
+* [New Safari Books and Courses](#safari)
+* [New/Updated Pluralsight Courses](#pluralsight)
 
-### <small>Free</small> [C# Programming Cookbook](https://www.packtpub.com/packt/offers/free-learning)
+## <a name="sale"></a>Books on Sale (or Free) Today ##
+These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
+
+* [Solving Real World Problems with SQL Server 2016 Query Store](#pluralfree)
+* [C# Programming Cookbook](#packt)
+* [Microservices in Action](#manning)
+* [Functional Programming in R](#apress)
+
+### <a name="pluralfree"></a><small>Free</small> [Solving Real World Problems with SQL Server 2016 Query Store](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
+![Solving Real World Problems with SQL Server 2016 Query Store](/assets/img/learning/pluralsight/solving-real-world-problems-with-sql-server-2016-query-store.png)
+[Free Pluralsight course (one week)](https://learn.pluralsight.com/resource/free-course/free-weekly-course) by Gail Shaw. This book covers Query Store, Transact-SQL, SQL Server.
+
+#### Publisher's Description
+Poor database performance is a widespread problem, and as data volumes increase it's only going to get worse. Up until now, identifying the poorly performing queries was challenging and difficult. SQL Server 2016 introduced the Query Store, which automatically tracks query performance. In this course, Solving Real World Problems with SQL Server 2016 Query Store, you'll learn how to solve difficult query performance problems in an easier, more efficient way. This course will show how to identify query performance regressions using the Query Store, how to identify queries using the most resources, and how to track the overall resource consumption at the database level. It'll also show some advanced uses of Query Store, such as upgrade tests and load tests. By the end this course, you’ll be able to use Query Store to identify and resolve what were previously very difficult performance problems.
+
+### <a name="packt"></a><small>Free</small> [C# Programming Cookbook](https://www.packtpub.com/packt/offers/free-learning)
 ![C# Programming Cookbook](/assets/img/learning/packt/csharp-programming-cookbook.png)
 [Free Packt eBook](https://www.packtpub.com/packt/offers/free-learning) by Dirk Strauss (valid through 9/13 at 19:00 EST). This book covers C#.
 #### Publisher's Description
@@ -32,7 +50,7 @@ You will learn responsive high performance programming in C# and how to create a
 * Security and Debugging.
 * Implement Code Contracts on code in Visual Studio.
 
-### <small>50% off</small> [Microservices in Action](https://www.manning.com/dotd)
+### <a name="manning"></a><small>50% off</small> [Microservices in Action](https://www.manning.com/dotd)
 ![Microservices in Action](/assets/img/learning/manning/microservices-in-action-meap.png)
 [50% off Manning's eBook](https://www.manning.com/dotd) by Morgan Bruce, Paulo Pereira. This book covers Microservices.
 #### Publisher's Description
@@ -54,8 +72,31 @@ Readers should be intermediate developers with some knowledge of enterprise appl
 #### About the authors
 Morgan Bruce and Paulo A. Pereira have years of experience building distributed applications, with particular expertise in the high-stakes finance and identity verification industries. They work daily with microservices in a production environment using the tools and techniques presented in this book.
 
+### <a name="apress"></a><small>$9.99</small> [Functional Programming in R](http://www.apress.com/us/book/9781484227459)
+![Functional Programming in R](/assets/img/learning/apress/functional-programming-in-r.png)
+[$9.99 Apress eBook](http://www.apress.com/us/book/9781484227459) by Thomas Mailund. This book covers R.
+
+#### Publisher's Description
+Master functions and discover how to write functional programs in R. In this concise book, you'll make your functions pure by avoiding side-effects; you’ll write functions that manipulate other functions, and you’ll construct complex functions using simpler functions as building blocks.
+
+In Functional Programming in R, you’ll see how we can replace loops, which can have side-effects, with recursive functions that can more easily avoid them. In addition, the book covers why you shouldn't use recursion when loops are more efficient and how you can get the best of both worlds.
+
+Functional programming is a style of programming, like object-oriented programming, but one that focuses on data transformations and calculations rather than objects and state. Where in object-oriented programming you model your programs by describing which states an object can be in and how methods will reveal or modify that state, in functional programming you model programs by describing how functions translate input data to output data. Functions themselves are considered to be data you can manipulate and much of the strength of functional programming comes from manipulating functions; that is, building more complex functions by combining simpler functions.
+
+#### What You'll Learn
+
+* Write functions in R including infix operators and replacement functions 
+* Create higher order functions
+* Pass functions to other functions and start using functions as data you can manipulate
+* Use Filer, Map and Reduce functions to express the intent behind code clearly and safely
+* Build new functions from existing functions without necessarily writing any new functions, using point-free programming
+* Create functions that carry data along with them
+
+#### Who This Book Is For
+Those with at least some experience with programming in R.
+
 ## Select New Books and Courses ##
-### [Linux in Action](https://www.manning.com/books/linux-in-action)
+### <a name="new1"></a>[Linux in Action](https://www.manning.com/books/linux-in-action)
 ![Linux in Action](/assets/img/learning/manning/linux-in-action-meap.png)
 [Linux in Action](https://www.manning.com/books/linux-in-action) by David Clinton. This book covers Linux.
 #### Publisher's Description
@@ -80,7 +121,46 @@ Readers should be comfortable working with the files, networks, and basic resour
 #### About the author
 David Clinton is a Linux Server Professional with a long history of teaching IT subjects. He is the author of the Practical LPIC-1 Linux Certification Study Guide and Manning's popular Learn Amazon Web Services in a Month of Lunches.
 
-## New Safari Books and Courses ## 
+## <a name="safari"></a>New/Updated Safari Books and Courses ## 
 
-## New Pluralsight Courses ## 
-* zzz
+### Business Expert Press
+* [Corporate Communication Crisis Leadership](https://www.safaribooksonline.com/library/view/corporate-communication-crisis/9781631575020/) (Book) by Matthew Corr, Sarah M. DeIuliis, Ronald C. Arnett
+
+### Cisco Press
+* [Connecting Networks v6 Companion Guide](https://www.safaribooksonline.com/library/view/connecting-networks-v6/9780134760735/) (Book) by Cisco Networking Academy
+
+### FT Publishing International
+* [Futureproof](https://www.safaribooksonline.com/library/view/futureproof/9781292186948/) (Book) by Caleb Storkey, Minter Dial
+
+### Momentum Press
+* [Environmental Engineering Dictionary of Technical Terms and Phrases](https://www.safaribooksonline.com/library/view/environmental-engineering-dictionary/9781945612794/) (Book) by Irena Stojkov, Francis J. Hopcroft
+
+### Morgan Kaufmann
+* [Network Routing, 2nd Edition](https://www.safaribooksonline.com/library/view/network-routing-2nd/9780128008294/) (Book) by Karthik Ramasamy, Deep Medhi
+
+### O'Reilly Media, Inc.
+* [Declarative React: Learning React Router 4](https://www.safaribooksonline.com/library/view/declarative-react-learning/9781491991879/) (Video) by Emmanuel Henri
+* [Head First Android Development, 2nd Edition](https://www.safaribooksonline.com/library/view/head-first-android/9781491974049/) (Book) by Dawn Griffiths, David Griffiths
+
+### Packt Publishing
+* [Beginning C# Hands-On - The Core Language](https://www.safaribooksonline.com/library/view/beginning-c-hands-on/9781788296540/) (Book) by Tom Owsiak
+* [Docker and Kubernetes for Java Developers](https://www.safaribooksonline.com/library/view/docker-and-kubernetes/9781786468390/) (Book) by Jaroslaw Krochmalski
+* [JBoss: Developer's Guide](https://www.safaribooksonline.com/library/view/jboss-developers-guide/9781788296199/) (Book) by Elvadas Nono Woguia
+* [Learning Redux](https://www.safaribooksonline.com/library/view/learning-redux/9781786462398/) (Book) by Daniel Bugl
+* [Mastering Machine Learning with Spark 2.x](https://www.safaribooksonline.com/library/view/mastering-machine-learning/9781785283451/) (Book) by Michal Malohlava, Max Pumperla, Alex Tellez
+* [NGINX Cookbook](https://www.safaribooksonline.com/library/view/nginx-cookbook/9781786466174/) (Book) by Tim Butler
+* [Raspberry Pi: Full Stack](https://www.safaribooksonline.com/library/view/raspberry-pi-full/9781788620178/) (Video) by Peter Dalmaris
+* [WordPress Complete - Sixth Edition](https://www.safaribooksonline.com/library/view/wordpress-complete-/9781787285705/) (Book) by Karol Król
+
+### Technics Publications
+* [Agile Discovery Series Part 1 of 3: Introduction to Agile Software Development](https://www.safaribooksonline.com/library/view/agile-discovery-series/9781634622745/) (Video) by Maria Elena Opiniano
+* [Agile Discovery Series Part 2 of 3: Agile Software Development with Scrum](https://www.safaribooksonline.com/library/view/agile-discovery-series/9781634622752/) (Video) by Maria Elena Opiniano
+* [Agile Discovery Series Part 3 of 3: Agile and Scrum for Stakeholders](https://www.safaribooksonline.com/library/view/agile-discovery-series/9781634622769/) (Video) by Maria Elena Opiniano
+* [Natural Language Processing (NLP) Using Python](https://www.safaribooksonline.com/library/view/natural-language-processing/9781634622776/) (Video) by Abhishek Chhibber
+* [Principles of Programming](https://www.safaribooksonline.com/library/view/principles-of-programming/9781634622738/) (Video) by Bill Inmon
+
+## <a name="pluralsight"></a>New/Updated Pluralsight Courses ## 
+* [Exploring Houdini's SOP Solver](https://app.pluralsight.com/library/courses/houdini-exploring-sop-solver/table-of-contents) (Video) by Kolt Wilson
+* [Building Apps with AngularFire 2](https://app.pluralsight.com/library/courses/angularfire2-building-apps/table-of-contents) (Video) by Duncan Hunter
+* [Secure Software Development](https://app.pluralsight.com/library/courses/software-development-secure/table-of-contents) (Video) by Dale Meredith
+* [Highly Available Cloud Storage with DRBD](https://app.pluralsight.com/library/courses/openstack-cloud-storage-drbd/table-of-contents) (Video) by Andrew Mallett
