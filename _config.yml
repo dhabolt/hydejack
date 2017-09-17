@@ -1,6 +1,9 @@
 # -----------------------------------------------------------------------------
 #  User configuration
 # -----------------------------------------------------------------------------
+daily_dose: 
+  day: 17 Sep
+  path: /daily/2017/09/17/
 
 title:               Big Mud Ball
 
@@ -58,10 +61,6 @@ permalink:           /posts/:title/
 # Pagination configuration (used by the `blog` layout)
 paginate:            5
 paginate_path:       '/page-:num/'
-
-daily_dose: 
-  day: 16 Sep
-  path: /daily/2017/09/16/
 
 # If you are upgrading form a v5 verison of Hydejack, uncomment the two lines below,
 # so that the location of the feed XML stays the same.
@@ -137,7 +136,6 @@ exclude:
   - licenses
   - assets/bower_components/html5shiv/MIT and GPL2 licenses
   - assets/icomoon/demo.html
-  - google268782edc077bc74.html
 
 
 kramdown:
