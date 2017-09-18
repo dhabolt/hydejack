@@ -14,17 +14,17 @@ published: true
 
 ## Sections
 * [Books on Sale (or Free) Today](#sale)
-* [New Safari Books and Courses](#safari)
-* [New/Updated Pluralsight Courses](#pluralsight)
+* [New Safari Books and Courses](#safari-new)
+* [New/Updated Pluralsight Courses](#pluralsight-new)
 
 ## <a name="sale"></a>Books on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
 
-* [Linux Networking Cookbook](#packt)
-* [Cisco Networks](#apress)
-* [The Java Module System](#manning)
+* [Linux Networking Cookbook](#packt-daily)
+* [Cisco Networks](#apress-daily)
+* [The Java Module System](#manning-daily)
 
-### <a name="packt"></a><small>Free</small> [Linux Networking Cookbook](https://www.packtpub.com/packt/offers/free-learning)
+### <a name="packt-daily"></a><small>Free</small> [Linux Networking Cookbook](https://www.packtpub.com/packt/offers/free-learning)
 ![Linux Networking Cookbook](/assets/img/learning/packt/linux-networking-cookbook.jpg)
 [Free Packt eBook](https://www.packtpub.com/packt/offers/free-learning) by Gregory Boyce (valid through 9/16 at 19:00 EST). This book covers Linux.
 
@@ -49,7 +49,7 @@ Toward the end, you will have a network with a number of services running on it,
 #### Authors
 Gregory Boyce is a technologist with nearly 20 years' experience using and managing Linux systems. When he's not at work or spending time with his wife and two daughters, he plays around with new technologies. Gregory has spent the last 15 years working at Akamai Technologies, where he has worked in roles ranging from Network Operations, Internal IT, Information Security, Software Testing, and Professional Services. Currently, he heads up the Linux OS team that manages Akamai's custom Linux operating system, which runs on their massively distributed customer-facing network.
 
-### <a name="apress"></a><small>$9.99</small> [Cisco Networks](http://www.apress.com/us/book/9781484208601)
+### <a name="apress-daily"></a><small>$9.99</small> [Cisco Networks](http://www.apress.com/us/book/9781484208601)
 ![Cisco Networks](/assets/img/learning/apress/cisco-networks.png)
 [$9.99 Apress eBook](http://www.apress.com/us/book/9781484208601) by Christopher Carthern, William Wilson, Noel Rivera, Richard Bedwell. This book covers Cisco IOS, Cisco ASA, CCENT, CCNA, CCNP, Cisco NX-OS.
 
@@ -68,7 +68,7 @@ This book differentiates itself from other Cisco books on the market by approach
 * How to implement secure network configurations and configure the Cisco ASA firewall
 * How to use black-hat tools and network penetration techniques to test the security of your network
 
-### <a name="manning"></a><small>50% off</small> [The Java Module System](https://www.manning.com/dotd)
+### <a name="manning-daily"></a><small>50% off</small> [The Java Module System](https://www.manning.com/dotd)
 ![The Java Module System](/assets/img/learning/manning/java-module-system-the.png)
 [50% off Manning's eBook](https://www.manning.com/dotd) by Nicolai Parlog. This book covers Java Module System, Java.
 
@@ -91,7 +91,7 @@ If you are a developer who has experience working with Java, then this book is p
 #### About the author
 Nicolai Parlog is a thirty year old boy, as the narrator would put it, who has found his passion in software development. He constantly reads, thinks, and writes about it, and codes for a living as well as for fun. He is the editor of SitePoint's Java channel, blogs about software development on codefx.org, and is a long-tail contributor to several open source projects. The best way to get in touch is via Twitter.
 
-## <a name="safari"></a>New Safari Books and Courses ## 
+## <a name="safari-new"></a>New Safari Books and Courses ## 
 
 ### Apress
 * [Digital Privacy and Security Using Windows: A Practical Guide](https://www.safaribooksonline.com/library/view/digital-privacy-and/9781484227985/) (Book) by Rami Hijazi, Nihad A. Hassan
@@ -125,7 +125,7 @@ Nicolai Parlog is a thirty year old boy, as the narrator would put it, who has f
 ### Packt Publishing
 * [Kali Linux Cookbook - Second Edition](https://www.safaribooksonline.com/library/view/kali-linux-cookbook/9781784390303/) (Book) by Bob Perciaccante, Corey P. Schultz
 
-## <a name="pluralsight"></a>New/Updated Pluralsight Courses ## 
+## <a name="pluralsight-new"></a>New/Updated Pluralsight Courses ## 
 
 * [After Effects CC Building on the Fundamentals](https://app.pluralsight.com/library/courses/after-effects-cc-2017-building-fundamentals/table-of-contents) (Video) by Jeff Sengstack
 * [Android UI Tests: Espresso Fundamentals](https://app.pluralsight.com/library/courses/android-ui-tests-espresso-fundamentals/table-of-contents) (Video) by Nora Valletta

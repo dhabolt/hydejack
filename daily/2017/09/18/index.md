@@ -11,17 +11,18 @@ published: true
 ## Sections
 * [Books on Sale (or Free) Today](#sale)
 * [Select New Books and Courses](#select)
-* [New/Updated Safari Books and Courses](#safari)
-* [New/Updated Pluralsight Courses](#pluralsight)
+* [New/Updated Safari Books and Courses](#safari-new)
+* [New/Updated Pluralsight Courses](#pluralsight-new)
 {% endcomment %}
 
 ## <a name="sale"></a>Books on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
 
-* [Professional CSS3](#packt)
-* [Agile Project Management using Team Foundation Server 2015](#apress) 
+* [Professional CSS3](#packt-daily)
+* [Agile Project Management using Team Foundation Server 2015](#apress-daily) 
+* [Linux in Action](#manning-daily)
 
-### <a name="packt"></a><small>Free</small> [Professional CSS3](https://www.packtpub.com/packt/offers/free-learning) 
+### <a name="packt-daily"></a><small>Free</small> [Professional CSS3](https://www.packtpub.com/packt/offers/free-learning) 
 ![Professional CSS3](/assets/img/learning/packt/professional-css3.jpg)
 [Free Packt eBook](https://www.packtpub.com/packt/offers/free-learning) by Piotr Sikora (valid through 9/18 at 19:00 EST). This book covers CSS3, Sass.
 
@@ -44,7 +45,7 @@ We will take you right from understanding CSS to designing high-quality web page
 
 Piotr is a b-boy (break dancer) and has learned a lot of artistic stuff from dance. He teaches dance in his free time.
 
-### <a name="apress"></a><small>$9.99</small> [Agile Project Management using Team Foundation Server 2015](http://www.apress.com/us/book/9781484218693)
+### <a name="apress-daily"></a><small>$9.99</small> [Agile Project Management using Team Foundation Server 2015](http://www.apress.com/us/book/9781484218693)
 ![Agile Project Management using Team Foundation Server 2015](/assets/img/learning/apress/agile-project-management-using-team-foundation-server-2015-small.png)
 [$9.99 Apress eBook](http://www.apress.com/us/book/9781484218693) by Joachim Rossberg. This book covers Agile Project Management, Team Foundation Server 2015, Visual Studio Team Services.
 
@@ -68,10 +69,36 @@ Keeping track of progress is important in any project. TFS/VSO includes many too
 #### About the author
 **Joachim Rossberg** has authored six books for Apress. He has worked as an IT consultant since 1998. He is primarily a Product Owner, agile coach and project manager but has an extensive history as a system developer/designer. He has demonstrated his technical background with various achievements over the years and has achieved the following distinctions: MCSD, MCDBA, MCSA, and MCSE. His specialties include agile project management, ALM process, and Team Foundation Server. Joachim is now working for Solidify in Gothenburg, Sweden.
 
+### <a name="manning-daily"></a><small>50% off</small> [Linux in Action](https://www.manning.com/dotd) 
+![Linux in Action](/assets/img/learning/manning/linux-in-action-meap.png)
+[50% off Manning's eBook](https://www.manning.com/dotd) by David Clinton. This book covers Linux. Also get 50% off **Learn Linux in a Month of Lunches** and **Kubernetes in Action**.
+
+#### Publisher's Description
+The Linux operating system powers millions of web servers, data centers, and application platforms worldwide. Whether you're pushing applications to a cloud system like AWS, building a twitter bot on a Raspberry Pi, or rescuing files from a crashed laptop, Linux is required knowledge. The good news is that the same Linux command set will work for you no matter where you're using it. The better news is that Linux skills have staying power, so what you learn about Linux now will probably still work in a decade or two. Bottom line? If you're a developer, administrator, or just a weekend hacker, you need to know your way around the Linux command line. Let's get started!
+
+#### About the book
+Linux in Action is a task-based tutorial that will give you the skills and deep understanding you'll need to administer a Linux-based system. This hands-on book guides you through real-world projects so you can practice as you learn. You'll learn critical techniques like virtualization, disaster recovery, infrastructure security, data backup, web servers, DevOps, and system troubleshooting. Plus, each chapter ends with a command-line review, list of security best practices, unfamiliar terms & definitions, and exercises to bring home the key takeaways!
+
+#### What's inside
+* Setting up a Linux environment suitable for safely experimenting with modern technologies
+* Managing secure remote connectivity
+* Securing a web server
+* Building a system recovery device
+* Securely sharing files within a local network and across the internet
+* Creating a VPN to safely connect to a server
+* Troubleshooting network and system performance issues
+* Making automated and reliable backup solutions
+
+#### About the reader
+Readers should be comfortable working with the files, networks, and basic resources of a modern operating system.
+
+#### About the author
+**David Clinton** is a Linux Server Professional with a long history of teaching IT subjects. He is the author of the Practical LPIC-1 Linux Certification Study Guide and Manning's popular Learn Amazon Web Services in a Month of Lunches.
+
 {% comment %}
 ## <a name="select"></a>Select New Books and Courses ##
 
-## <a name="safari"></a>New/Updated Safari Books and Courses ## 
+## <a name="safari-new"></a>New/Updated Safari Books and Courses ## 
 
-## <a name="pluralsight"></a>New/Updated Pluralsight Courses ## 
+## <a name="pluralsight-new"></a>New/Updated Pluralsight Courses ## 
 {% endcomment %}

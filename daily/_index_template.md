@@ -11,8 +11,8 @@ published: false
 ## Sections
 * [Books on Sale (or Free) Today](#sale)
 * [Select New Books and Courses](#select)
-* [New/Updated Safari Books and Courses](#safari)
-* [New/Updated Pluralsight Courses](#pluralsight)
+* [New/Updated Safari Books and Courses](#safari-new)
+* [New/Updated Pluralsight Courses](#pluralsight-new)
 {% endcomment %}
 
 ## <a name="sale"></a>Books on Sale (or Free) Today ##
@@ -21,7 +21,7 @@ These deals are good for today only, so be sure to take advantage of the pricing
 {% comment %}
 ## <a name="select"></a>Select New Books and Courses ##
 
-## <a name="safari"></a>New/Updated Safari Books and Courses ## 
+## <a name="safari-new"></a>New/Updated Safari Books and Courses ## 
 
-## <a name="pluralsight"></a>New/Updated Pluralsight Courses ## 
+## <a name="pluralsight-new"></a>New/Updated Pluralsight Courses ## 
 {% endcomment %}

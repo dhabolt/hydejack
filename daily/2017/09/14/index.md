@@ -10,17 +10,17 @@ published: true
 ## Sections
 * [Books on Sale (or Free) Today](#sale)
 * [Select New Books and Courses](#select)
-* [New Safari Books and Courses](#safari)
-* [New Pluralsight Courses](#pluralsight)
+* [New Safari Books and Courses](#safari-new)
+* [New Pluralsight Courses](#pluralsight-new)
 
 ## <a name="sale"></a>Books on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing today.
 
-* [Kubernetes Cookbook](#packt)
-* [C# in Depth, Fourth Edition](#manning)
-* [Expert Oracle Exadata, Second Edition](#apress)
+* [Kubernetes Cookbook](#packt-daily)
+* [C# in Depth, Fourth Edition](#manning-daily)
+* [Expert Oracle Exadata, Second Edition](#apress-daily)
 
-### <a name="packt"></a><small>Free</small> [Kubernetes Cookbook](https://www.packtpub.com/packt/offers/free-learning)
+### <a name="packt-daily"></a><small>Free</small> [Kubernetes Cookbook](https://www.packtpub.com/packt/offers/free-learning)
 ![Kubernetes Cookbook](/assets/img/learning/packt/kubernetes-cookbook.jpg)
 [Free Packt eBook](https://www.packtpub.com/packt/offers/free-learning) by Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu (valid through 9/14 at 19:00 EST). This book covers Kubernetes.
 
@@ -39,7 +39,7 @@ Upon completion of this book, you will be able use Kubernetes in production and 
 * Track metrics and logs for every container running in your cluster
 * Streamline the way you deploy and manage your applications with large-scale container orchestration
 
-### <a name="manning"></a><small>50% off</small> [C# in Depth, Fourth Edition](https://www.manning.com/dotd)
+### <a name="manning-daily"></a><small>50% off</small> [C# in Depth, Fourth Edition](https://www.manning.com/dotd)
 ![C# in Depth, Fourth Edition](/assets/img/learning/manning/csharp-in-depth-fourth-edition-meap.png)
 [50% off Manning's eBook](https://www.manning.com/dotd) by Jon Skeet. This book covers C#.
 
@@ -63,7 +63,7 @@ If you're a C# developer who's comfortable working with the language and wants t
 #### About the author
 Jon Skeet is a senior software engineer at Google. He studied mathematics and computer science at Cambridge, is a recognized authority in Java and C#, and maintains the position of top contributor to Stack Overflow.
 
-### <a name="apress"></a><small>$9.99</small> [Expert Oracle Exadata, Second Edition](http://www.apress.com/us/book/9781430262411)
+### <a name="apress-daily"></a><small>$9.99</small> [Expert Oracle Exadata, Second Edition](http://www.apress.com/us/book/9781430262411)
 ![Expert Oracle Exadata, Second Edition](/assets/img/learning/apress/expert-oracle-exadata-second-edition.png)
 [$9.99 Apress eBook](http://www.apress.com/us/book/9781430262411) by Martin Bach, Kristofferson Arao, Andy Colvin, Frits Hoogland, Kerry Osborne, Randy Johnson, Tanel Poder. This book covers Oracle Exadata 5-2, Oracle Database 12c.
 
@@ -102,7 +102,7 @@ The examples in this book were written using Python 3.6 and pytest 3.2. pytest 3
 Brian Okken is a lead software engineer with two decades of R&D experience developing test and measurement instruments. He hosts the Test & Code podcast and co-hosts the Python Bytes podcast.
 
 
-## <a name="safari"></a>New Safari Books and Courses ## 
+## <a name="safari-new"></a>New Safari Books and Courses ## 
 
 ### Business Expert Press
 * [Mastering Leadership Alignment](https://www.safaribooksonline.com/library/view/mastering-leadership-alignment/9781631575044/) (Book) by Andrew Bargerstock, J.W. Ballard
@@ -119,7 +119,7 @@ Brian Okken is a lead software engineer with two decades of R&D experience devel
 ### Packt Publishing
 * [Intro to Cyber Security Certification - Security+ Boot Camp](https://www.safaribooksonline.com/library/view/intro-to-cyber/9781788628433/) (Book) by Chad Russell
 
-## <a name="pluralsight"></a>New Pluralsight Courses ## 
+## <a name="pluralsight-new"></a>New Pluralsight Courses ## 
 * [Scheduling in ARCHICAD](https://app.pluralsight.com/library/courses/archicad-scheduling/table-of-contents) (Video) by Quinton Cooper
 * [Office365 WebHooks and Connectors](https://app.pluralsight.com/library/courses/office-365-webhooks-connectors/table-of-contents) (Video) by Sahil Malik
 * [Getting Started with Data Analysis Using Python](https://app.pluralsight.com/library/courses/python-data-analysis-getting-started/table-of-contents) (Video) by Terry Toy

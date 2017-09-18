@@ -10,19 +10,18 @@ published: true
 ## Sections
 * <a href="#sale">Books/Videos on Sale (or Free) Today</a>
 * <a href="#select">Select New Books and Courses</a>
-* <a href="#safari">New Safari Books and Courses</a>
-* <a href="#pluralsight">New Pluralsight Courses</a>
+* <a href="#safari-new">New Safari Books and Courses</a>
+* <a href="#pluralsight-new">New Pluralsight Courses</a>
 
 <a name="sale"></a>
 ## Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing today.
 
-* <a href="#packt">Practical Windows Forensics</a>
-* <a href="#apress">Pro Spring Boot</a>
-* <a href="#manning">Enterprise Java Microservices</a>
+* <a href="#packt-daily">Practical Windows Forensics</a>
+* <a href="#apress-daily">Pro Spring Boot</a>
+* <a href="#manning-daily">Enterprise Java Microservices</a>
 
-<a name="packt"></a>
-### <small>Free</small> [Practical Windows Forensics](https://www.packtpub.com/packt/offers/free-learning)
+### <a name="packt-daily"></a><small>Free</small> [Practical Windows Forensics](https://www.packtpub.com/packt/offers/free-learning)
 ![Practical Windows Forensics](/assets/img/learning/packt/practical-windows-forensics.jpg)
 [Free Packt eBook](https://www.packtpub.com/packt/offers/free-learning) by Ayman Shaaban, Konstantin Sapronov (valid through 9/15 at 19:00 EST). This book covers Cyber Security, Digital Forensics.
 
@@ -54,8 +53,7 @@ Konstantin Sapronov works as the deputy head of the Global Emergency Response Te
 
 Konstantin holds degrees from the Moscow Power Engineering Institute (a technical university) and the Moscow State University of Economics, Statistics and Information Technology.
 
-<a name="apress"></a>
-### <small>$9.99</small> [Pro Spring Boot](http://www.apress.com/us/book/9781484214329)
+### <a name="apress-daily"></a><small>$9.99</small> [Pro Spring Boot](http://www.apress.com/us/book/9781484214329)
 ![Pro Spring Boot](/assets/img/learning/apress/pro-spring-boot.png)
 [$9.99 Apress eBook](http://www.apress.com/us/book/9781484214329) by Felipe Gutierrez. This book covers Spring Boot, Microservices, Java.
 
@@ -82,8 +80,7 @@ Experienced Spring and Java developers seeking increased productivity gains and 
 #### About the author
 Felipe Gutierrez is a software architect, with a bachelors and masters degree in computer science from Instituto Tecnologico y de Estudios Superiores de Monterrey Campus Ciudad de Mexico. He has over 20 years of IT experience, during which time he developed programs for companies in multiple vertical industries, such as government, retail, healthcare, education, and banking. Right now, he is working as a senior consultant for EMC/Pivotal, specializing in the Spring Framework, Groovy, and RabbitMQ, among other technologies. He works as a consultant for big companies such as Nokia, Apple, Redbox, and Qualcomm, among others.
 
-<a name="manning"></a>
-### <small>50% off</small> [Enterprise Java Microservices](https://www.manning.com/dotd)
+### <a name="manning-daily"></a><small>50% off</small> [Enterprise Java Microservices](https://www.manning.com/dotd)
 ![Enterprise Java Microservices](/assets/img/learning/manning/enterprise-java-microservices-meap.png)
 [50% off Manning's eBook](https://www.manning.com/dotd) by Ken Finnigan. This book covers Java EE, Microservices, Netflix Hystrix, WildFly Swarm, Java.
 
@@ -105,14 +102,12 @@ This book is for Java developers familiar with distributed n-tier application ar
 #### About the author
 Ken Finnigan has worked as an engineer and consultant for nearly 20 years. He currently co-leads the development of WildFly Swarm for Red Hat.
 
-<a name="select"></a>
-## Select New Books and Courses ##
+## <a name="select"></a>Select New Books and Courses ##
 
 * <a href="#new1">ASP.NET Core Recipes</a>
 * <a href="#new2">D3.js in Motion</a>
 
-<a name="new1"></a>
-### [ASP.NET Core Recipes](http://www.apress.com/us/book/9781484204283)
+### <a name="new1"></a>[ASP.NET Core Recipes](http://www.apress.com/us/book/9781484204283)
 ![ASP.NET Core Recipes](/assets/img/learning/apress/asp.net-core-recipes-second-edition.png)
 [ASP.NET Core Recipes](http://www.apress.com/us/book/9781484204283) by John Ciliberti. This book covers ASP.NET Core, React.js, C#.
 
@@ -144,8 +139,7 @@ Web developers of all skill levels who are looking for a programming reference f
 
 John Ciliberti is an enterprise architect with over 14 years of professional experience in software engineering and architecture. After almost seven years with KPMG's Enterprise Architecture practice and five years of solutions architecture consulting, John has acquired strong business and communications skills backed up by a broad range of technical knowledge. He specializes in enterprise architecture, web application development technologies, and mobile device development.
 
-<a name="new2"></a>
-### [D3.js in Motion](https://www.manning.com/livevideo/d3-js-in-motion)
+### <a name="new2"></a>[D3.js in Motion](https://www.manning.com/livevideo/d3-js-in-motion)
 ![D3.js in Motion](/assets/img/learning/manning/d3-js-in-motion.png)
 [D3.js in Motion](https://www.manning.com/livevideo/d3-js-in-motion) by Curran Kelleher. This video covers D3.js, Data Visualization, JavaScript.
 
@@ -171,8 +165,7 @@ This course is perfect for developers with basic HTML, CSS, and JavaScript skill
 #### About the instructor
 Curran Kelleher specializes in using and teaching D3.js. He has been working in the field of data visualization since 2005, and is fascinated by techniques for the visual presentation of data.
 
-<a name="safari"></a>
-## New Safari Books and Courses ## 
+## <a name="safari-new"></a>New Safari Books and Courses ## 
 
 ### Addison-Wesley Professional
 * [Introduction to Game Design, Prototyping, and Development: From Concept to Playable Game with Unity and C#, 2nd Edition](https://www.safaribooksonline.com/library/view/introduction-to-game/9780134659909/) (Book) by Jeremy Gibson Bond
@@ -237,8 +230,7 @@ Curran Kelleher specializes in using and teaching D3.js. He has been working in 
 ### Technics Publications
 * [Agile Test Driven Design (TDDe)](https://www.safaribooksonline.com/library/view/agile-test-driven/9781634622783/) (Video) by J.V. Ravichandran
 
-<a name="pluralsight"></a>
-## New Pluralsight Courses ## 
+## <a name="pluralsight-new"></a>New Pluralsight Courses ## 
 * [Develop Websites and Components in AEM Advanced](https://app.pluralsight.com/library/courses/develop-websites-components-aem-advanced/table-of-contents) (Video) by Adobe Systems and Tyler Maynard
 * [Terraform - Getting Started](https://app.pluralsight.com/library/courses/terraform-getting-started/table-of-contents) (Video) by Ned Bellavance
 * [Develop Websites and Components in AEM](https://app.pluralsight.com/library/courses/develop-websites-components-aem/table-of-contents) (Video) by Adobe Systems and Tyler Maynard

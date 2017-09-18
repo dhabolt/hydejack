@@ -10,16 +10,16 @@ published: true
 ## Sections
 * [Books on Sale (or Free) Today](#sale)
 * [Select New Books and Courses](#select)
-* [New Safari Books and Courses](#safari)
-* [New/Updated Pluralsight Courses](#pluralsight)
+* [New Safari Books and Courses](#safari-new)
+* [New/Updated Pluralsight Courses](#pluralsight-new)
 
 ## <a name="sale"></a>Books on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
 
 * [Solving Real World Problems with SQL Server 2016 Query Store](#pluralfree)
-* [C# Programming Cookbook](#packt)
-* [Microservices in Action](#manning)
-* [Functional Programming in R](#apress)
+* [C# Programming Cookbook](#packt-daily)
+* [Microservices in Action](#manning-daily)
+* [Functional Programming in R](#apress-daily)
 
 ### <a name="pluralfree"></a><small>Free</small> [Solving Real World Problems with SQL Server 2016 Query Store](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
 ![Solving Real World Problems with SQL Server 2016 Query Store](/assets/img/learning/pluralsight/solving-real-world-problems-with-sql-server-2016-query-store.png)
@@ -28,7 +28,7 @@ These deals are good for today only, so be sure to take advantage of the pricing
 #### Publisher's Description
 Poor database performance is a widespread problem, and as data volumes increase it's only going to get worse. Up until now, identifying the poorly performing queries was challenging and difficult. SQL Server 2016 introduced the Query Store, which automatically tracks query performance. In this course, Solving Real World Problems with SQL Server 2016 Query Store, you'll learn how to solve difficult query performance problems in an easier, more efficient way. This course will show how to identify query performance regressions using the Query Store, how to identify queries using the most resources, and how to track the overall resource consumption at the database level. It'll also show some advanced uses of Query Store, such as upgrade tests and load tests. By the end this course, you’ll be able to use Query Store to identify and resolve what were previously very difficult performance problems.
 
-### <a name="packt"></a><small>Free</small> [C# Programming Cookbook](https://www.packtpub.com/packt/offers/free-learning)
+### <a name="packt-daily"></a><small>Free</small> [C# Programming Cookbook](https://www.packtpub.com/packt/offers/free-learning)
 ![C# Programming Cookbook](/assets/img/learning/packt/csharp-programming-cookbook.png)
 [Free Packt eBook](https://www.packtpub.com/packt/offers/free-learning) by Dirk Strauss (valid through 9/13 at 19:00 EST). This book covers C#.
 #### Publisher's Description
@@ -50,7 +50,7 @@ You will learn responsive high performance programming in C# and how to create a
 * Security and Debugging.
 * Implement Code Contracts on code in Visual Studio.
 
-### <a name="manning"></a><small>50% off</small> [Microservices in Action](https://www.manning.com/dotd)
+### <a name="manning-daily"></a><small>50% off</small> [Microservices in Action](https://www.manning.com/dotd)
 ![Microservices in Action](/assets/img/learning/manning/microservices-in-action-meap.png)
 [50% off Manning's eBook](https://www.manning.com/dotd) by Morgan Bruce, Paulo Pereira. This book covers Microservices.
 #### Publisher's Description
@@ -72,7 +72,7 @@ Readers should be intermediate developers with some knowledge of enterprise appl
 #### About the authors
 Morgan Bruce and Paulo A. Pereira have years of experience building distributed applications, with particular expertise in the high-stakes finance and identity verification industries. They work daily with microservices in a production environment using the tools and techniques presented in this book.
 
-### <a name="apress"></a><small>$9.99</small> [Functional Programming in R](http://www.apress.com/us/book/9781484227459)
+### <a name="apress-daily"></a><small>$9.99</small> [Functional Programming in R](http://www.apress.com/us/book/9781484227459)
 ![Functional Programming in R](/assets/img/learning/apress/functional-programming-in-r.png)
 [$9.99 Apress eBook](http://www.apress.com/us/book/9781484227459) by Thomas Mailund. This book covers R.
 
@@ -95,7 +95,7 @@ Functional programming is a style of programming, like object-oriented programmi
 #### Who This Book Is For
 Those with at least some experience with programming in R.
 
-## Select New Books and Courses ##
+## <a name="select"></a>Select New Books and Courses ##
 ### <a name="new1"></a>[Linux in Action](https://www.manning.com/books/linux-in-action)
 ![Linux in Action](/assets/img/learning/manning/linux-in-action-meap.png)
 [Linux in Action](https://www.manning.com/books/linux-in-action) by David Clinton. This book covers Linux.
@@ -121,7 +121,7 @@ Readers should be comfortable working with the files, networks, and basic resour
 #### About the author
 David Clinton is a Linux Server Professional with a long history of teaching IT subjects. He is the author of the Practical LPIC-1 Linux Certification Study Guide and Manning's popular Learn Amazon Web Services in a Month of Lunches.
 
-## <a name="safari"></a>New/Updated Safari Books and Courses ## 
+## <a name="safari-new"></a>New/Updated Safari Books and Courses ## 
 
 ### Business Expert Press
 * [Corporate Communication Crisis Leadership](https://www.safaribooksonline.com/library/view/corporate-communication-crisis/9781631575020/) (Book) by Matthew Corr, Sarah M. DeIuliis, Ronald C. Arnett
@@ -159,7 +159,7 @@ David Clinton is a Linux Server Professional with a long history of teaching IT 
 * [Natural Language Processing (NLP) Using Python](https://www.safaribooksonline.com/library/view/natural-language-processing/9781634622776/) (Video) by Abhishek Chhibber
 * [Principles of Programming](https://www.safaribooksonline.com/library/view/principles-of-programming/9781634622738/) (Video) by Bill Inmon
 
-## <a name="pluralsight"></a>New/Updated Pluralsight Courses ## 
+## <a name="pluralsight-new"></a>New/Updated Pluralsight Courses ## 
 * [Exploring Houdini's SOP Solver](https://app.pluralsight.com/library/courses/houdini-exploring-sop-solver/table-of-contents) (Video) by Kolt Wilson
 * [Building Apps with AngularFire 2](https://app.pluralsight.com/library/courses/angularfire2-building-apps/table-of-contents) (Video) by Duncan Hunter
 * [Secure Software Development](https://app.pluralsight.com/library/courses/software-development-secure/table-of-contents) (Video) by Dale Meredith

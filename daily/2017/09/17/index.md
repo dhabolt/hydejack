@@ -9,22 +9,22 @@ published: true
 ---
 {% comment %}
 * [Select New Books and Courses](#select)
-* [New/Updated Pluralsight Courses](#pluralsight)
+* [New/Updated Pluralsight Courses](#pluralsight-new)
 {% endcomment %}
 
 ## Sections
 * [Books on Sale (or Free) Today](#sale)
-* [New/Updated Safari Books and Courses](#safari)
+* [New/Updated Safari Books and Courses](#safari-new)
 
 ## <a name="sale"></a>Books on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
 
-* [Node.js Web Development - Third Edition](#packt)
-* [JSON Quick Syntax Reference](#apress) 
-* [ASP.NET Core in Action](#manning)
-* [Linux Hardening in Hostile Networks](#informit) Server Security from TLS to TOR
+* [Node.js Web Development - Third Edition](#packt-daily)
+* [JSON Quick Syntax Reference](#apress-daily) 
+* [ASP.NET Core in Action](#manning-daily)
+* [Linux Hardening in Hostile Networks](#informit-daily) Server Security from TLS to TOR
 
-### <a name="packt"></a><small>Free</small> [Node.js Web Development - Third Edition](https://www.packtpub.com/packt/offers/free-learning) 
+### <a name="packt-daily"></a><small>Free</small> [Node.js Web Development - Third Edition](https://www.packtpub.com/packt/offers/free-learning) 
 ![Node.js Web Development - Third Edition](/assets/img/learning/packt/node-js-web-development-third-edition.jpg)
 [Free Packt eBook](https://www.packtpub.com/packt/offers/free-learning) by David Herron (valid through 9/17 at 19:00 EST). This book covers Express.js, Bootstrap, Mocha, CasperJS.
 
@@ -53,7 +53,7 @@ Before Sun, he worked for VXtreme on software which eventually became Windows Me
 
 David is interested in electric vehicles, world energy supplies, climate change, and environmental issues, and he is a co-founder of Transition Silicon Valley. As an online journalist, he writes about electric cars and other green technology on LongTailPipe.com after having written for PlugInCars.com. He runs a large electric vehicle discussion website on VisForVoltage.org, and he blogs about other topics, including Node.js, Drupal, and Doctor Who on DavidHerron.com. Using Node.js, he developed a Content Management System that produces static HTML websites or EPUB3 eBooks, AkashaCMS (akashacms.com).
 
-### <a name="apress"></a><small>$9.99</small> [JSON Quick Syntax Reference](http://www.apress.com/us/book/9781484218624)
+### <a name="apress-daily"></a><small>$9.99</small> [JSON Quick Syntax Reference](http://www.apress.com/us/book/9781484218624)
 ![JSON Quick Syntax Reference](/assets/img/learning/apress/json-quick-syntax-reference.png)
 [$9.99 Apress eBook](http://www.apress.com/us/book/9781484218624) by Wallace Jackson. This book covers JSON.
 
@@ -73,7 +73,7 @@ Web developers, Android application developers, and user interface designers.
 #### About the authors
 **Wallace Jackson** has been writing for leading multimedia publications about his work in new media content development since the advent of Multimedia Producer Magazine nearly two decades ago, when he wrote about computer processor architectures for centerfolds (removable "mini-issue" insert) distributed at SIGGRAPH. Since then, Wallace has written for several other publications about his work in interactive 3D and new media advertising campaign design, including 3D Artist, Desktop Publishers Journal, CrossMedia, AVvideo and Kiosk Magazine.
 
-### <a name="manning"></a><small>50% off</small> [ASP.NET Core in Action](https://www.manning.com/dotd) 
+### <a name="manning-daily"></a><small>50% off</small> [ASP.NET Core in Action](https://www.manning.com/dotd) 
 ![ASP.NET Core in Action](/assets/img/learning/manning/asp-net-core-in-action.png)
 [50% off Manning's eBook](https://www.manning.com/dotd) by Andrew Lock. This book covers ASP.NET Core, .NET Core, ASP.NET, C#.
 
@@ -96,7 +96,7 @@ Readers should have experience with C#. No web development experience needed.
 #### About the author
 **Andrew Lock** graduated with an Engineering degree from Cambridge University, specializing in Software Engineering, and went on to obtain a PhD in Digital Image Processing. He has been developing professionally with .NET for the last 7 years. His focus is currently on the new ASP.NET Core framework. Andrew currently has a very active blog at [https://andrewlock.net](https://andrewlock.net) dedicated to ASP.NET Core.
 
-### <a name="informit"></a><small>$19.99</small> [Linux Hardening in Hostile Networks](http://www.informit.com/deals/)
+### <a name="informit-daily"></a><small>$19.99</small> [Linux Hardening in Hostile Networks](http://www.informit.com/deals/)
 ![Linux Hardening in Hostile Networks](/assets/img/learning/informit/linux-hardening-in-hostile-networks.jpg)
 [$19.99 InformIT eBook](http://www.informit.com/deals/) by Kyle Rankin. This book covers Linux, Cyber Security.
 
@@ -133,7 +133,7 @@ Each chapter begins with techniques any sysadmin can use quickly to protect agai
 #### About the author
 **Kyle Rankin** is an award-winning Linux Journal columnist and author of DevOps Troubleshooting and The Official Ubuntu Server Book.
 
-## <a name="safari"></a>New/Updated Safari Books and Courses ## 
+## <a name="safari-new"></a>New/Updated Safari Books and Courses ## 
 
 ### Apress
 * [Advanced Microservices: A Hands-on Approach to Microservice Infrastructure and Tooling](https://www.safaribooksonline.com/library/view/advanced-microservices-a/9781484228869/) (Book) by Thomas Hunter II
@@ -190,5 +190,5 @@ Each chapter begins with techniques any sysadmin can use quickly to protect agai
 
 {% comment %}
 ## <a name="select"></a>Select New Books and Courses ##
-## <a name="pluralsight"></a>New/Updated Pluralsight Courses ## 
+## <a name="pluralsight-new"></a>New/Updated Pluralsight Courses ## 
 {% endcomment %}
