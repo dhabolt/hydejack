@@ -21,6 +21,8 @@ These deals are good for today only, so be sure to take advantage of the pricing
 * [Professional CSS3](#packt-daily)
 * [Agile Project Management using Team Foundation Server 2015](#apress-daily) 
 * [Linux in Action](#manning-daily)
+* [Learn Linux in a Month of Lunches](#manning-daily-2)
+* [Kubernetes in Action](#manning-daily-3)
 
 ### <a name="packt-daily"></a><small>Free</small> [Professional CSS3](https://www.packtpub.com/packt/offers/free-learning) 
 ![Professional CSS3](/assets/img/learning/packt/professional-css3.jpg)
@@ -94,6 +96,55 @@ Readers should be comfortable working with the files, networks, and basic resour
 
 #### About the author
 **David Clinton** is a Linux Server Professional with a long history of teaching IT subjects. He is the author of the Practical LPIC-1 Linux Certification Study Guide and Manning's popular Learn Amazon Web Services in a Month of Lunches.
+
+### <a name="manning-daily-2"></a><small>50% off</small> [Learn Linux in a Month of Lunches](https://www.manning.com/dotd) 
+![Learn Linux in a Month of Lunches](/assets/img/learning/manning/learn-linux-in-a-month-of-lunches-final.png)
+[50% off Manning's eBook](https://www.manning.com/dotd) by Steven Ovadia with foreword by Jim Whitehurst. This book covers Linux.
+
+#### Publisher's Description
+Learn Linux in a Month of Lunches shows you how to install and use Linux for all the things you do with your OS, like connecting to a network, installing software, and securing your system. Whether you're just curious about Linux or have to get up and running for your job, you'll appreciate how this book concentrates on the tasks you need to know how to do in 23 easy lessons.
+
+#### About the technology
+If you've only used Windows or Mac OS X, you may be daunted by the Linux operating system. And yet learning Linux doesn't have to be hard, and the payoff is great. Linux is secure, flexible, and free. It's less susceptible to malicious attacks, and when it is attacked, patches are available quickly. If you don't like the way it looks or behaves, you can change it. And best of all, Linux allows users access to different desktop interfaces and loads of software, almost all of it completely free.
+
+#### About the book
+Learn Linux in a Month of Lunches shows you how to install and use Linux for all the things you do with your OS, like connecting to a network, installing software, and securing your system. Whether you're just curious about Linux or need it for your job, you'll appreciate how this book focuses on just the tasks you need to learn. In easy-to-follow lessons designed to take an hour or less, you'll learn how to use the command line, along with practical topics like installing software, customizing your desktop, printing, and even basic networking. You'll find a road map to the commands and processes you need to be instantly productive.
+
+#### What's inside
+* Master the command line
+* Learn about file systems
+* Understand desktop environments
+* Go from Linux novice to expert in just one month
+
+#### About the reader
+This book is for anyone looking to learn how to use Linux. No previous Linux experience required.
+
+#### About the author
+**Steven Ovadia** is a professor and librarian at LaGuardia Community College, CUNY. He curates The Linux Setup, a large collection of interviews with desktop Linux users, and writes for assorted library science journals.
+
+### <a name="manning-daily-3"></a><small>50% off</small> [Kubernetes in Action](https://www.manning.com/dotd) 
+![Kubernetes in Action](/assets/img/learning/manning/kubernetes-in-action.png)
+[50% off Manning's eBook](https://www.manning.com/dotd) by Marko Lukša. This book covers Kubernetes, Docker, Google Container Engine.
+
+#### Publisher's Description
+Monolithic applications are becoming a thing of the past as we move towards smaller, independently running microservices that can be developed, deployed, updated and scaled individually. But it can be difficult to configure, manage, and keep the whole system running properly. This is where Kubernetes comes in. Think of Kubernetes as an operating system for your cluster, making it easier to organize and schedule your application's components across a fleet of machines. With Kubernetes, you don't have to worry about which specific machine in your data center your application is running on. And even better, it provides you with primitives for health checking and replicating your application across these machines. Each layer in your application is decoupled from other layers so you can scale, update, and maintain them independently. With more and more big companies accepting the Kubernetes model as the best way to run apps, it is set to become the standard way of running distributed apps both in the cloud and local on-premises infrastructure.
+
+#### About the book
+Kubernetes in Action teaches developers how to use Kubernetes to deploy self-healing scalable distributed applications. This clearly-written guide begins by looking at the problems system administrators and software developers face when running microservice-based applications and how deploying onto Kubernetes solves them. Next, you'll get your feet wet by running your first simple containerized web application on a Kubernetes cluster running in Google Container Engine. The second part of the book explains the main concepts developers need to understand in order to run multi-component applications in Kubernetes, while the last part will explain what goes on inside Kubernetes and teach you how to tie everything you've learned in the first two parts together. By the end, you'll be able to build and deploy applications in a proper way to take full advantage of the Kubernetes platform.
+
+#### What's inside
+* Using Docker and Kubernetes
+* Deploying containers by creating Pods
+* Securely delivering sensitive information to containers
+* Understanding Kubernetes internals
+* Monitoring distributed apps
+* Automatically scaling your system
+
+#### About the reader
+The book is for both application developers as well as system administrators who want to learn about Kubernetes from the developer's perspective
+
+#### About the author
+**Marko Lukša** is a software engineer at Red Hat with the Cloud Enablement Team, whose responsibility is to make Red Hat's Enterprise Middleware products run on OpenShift, the PaaS platform built on top of Kubernetes. He also has 15 years of teaching others, helping him understand the learner's perspective and how to present difficult topics in a clear and understandable way.
 
 {% comment %}
 ## <a name="select"></a>Select New Books and Courses ##

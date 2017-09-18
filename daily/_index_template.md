@@ -9,13 +9,13 @@ published: false
 ---
 {% comment %}
 ## Sections
-* [Books on Sale (or Free) Today](#sale)
+* [Books/Videos on Sale (or Free) Today](#sale)
 * [Select New Books and Courses](#select)
 * [New/Updated Safari Books and Courses](#safari-new)
 * [New/Updated Pluralsight Courses](#pluralsight-new)
 {% endcomment %}
 
-## <a name="sale"></a>Books on Sale (or Free) Today ##
+## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
 
 {% comment %}
