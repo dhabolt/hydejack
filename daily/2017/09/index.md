@@ -8,6 +8,12 @@ published: true
 navigation: '<< Daily Dose for August 2017 &#124; [2017](/daily/2017/) &#124; Daily Dose for October 2017 >>'
 pubdays: 
     - 
+        day: 2017.09.18
+        path: /daily/2017/09/18/
+    - 
+        day: 2017.09.17
+        path: /daily/2017/09/17/
+    - 
         day: 2017.09.16
         path: /daily/2017/09/16/
     - 
