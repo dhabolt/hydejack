@@ -1,5 +1,10 @@
 ---
 layout: base
+
+daily_dose: 
+    day: 20 Sep
+    path: /daily/2017/09/20/
+
 ---
 
 {% assign category = site.featured_categories | where: "slug", page.slug | first %}
@@ -29,7 +34,7 @@ layout: base
     {{ post.date | date:format }}
   </time></small>
 
-<p class="h4"><a href="{{ site.daily_dose.path }}" data-flip="title"><span>Latest Daily Dose</span></a> <small>{{ site.daily_dose.day }}</small></p>
+<p class="h4"><a href="{{ layout.daily_dose.path }}" data-flip="title"><span>Latest Daily Dose</span></a> <small>{{ layout.daily_dose.day }}</small></p>
 
 
 
