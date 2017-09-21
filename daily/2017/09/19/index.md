@@ -199,6 +199,8 @@ Written for developers and DevOps engineers moving distributed applications to t
 An eBook copy of the previous edition, [Amazon Web Services in Action (First Edition)](https://www.manning.com/books/amazon-web-services-in-action), is included at no additional cost. It will be automatically added to your Manning Bookshelf within 24 hours of purchase.
 
 ## <a name="safari-new"></a>New/Updated Safari Books and Courses ## 
+
+### O'Reilly Media, Inc.
 * [JupyterCon 2017 - New York, NY](https://www.safaribooksonline.com/library/view/jupytercon-2017-/9781491985311/) (Video) by O'Reilly Media, Inc.
 * [Learning TensorFlow](https://www.safaribooksonline.com/library/view/learning-tensorflow/9781491978504/) (Book) by Itay Lieder, Yehezkel S. Resheff, Tom Hope
 * [Mobile Game Development with Unity](https://www.safaribooksonline.com/library/view/mobile-game-development/9781491944738/) (Book) by Paris Buttfield-Addison, Jon Manning

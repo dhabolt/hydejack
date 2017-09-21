@@ -4,12 +4,9 @@ title:  'Daily Dose for 2017.09.20'
 date:   2017-09-20 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
-navigation: '<< [Daily Dose for 2017.09.19](/daily/2017/09/19/) &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; Daily Dose for 2017.09.21 >>'
+navigation: '<< [Daily Dose for 2017.09.19](/daily/2017/09/19/) &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.09.21](/daily/2017/09/21/) >>'
 published: true
 ---
-{% comment %}
-* [New/Updated Pluralsight Courses](#pluralsight-new)
-{% endcomment %}
 
 ## Sections
 * [Books/Videos on Sale (or Free) Today](#sale)
@@ -161,9 +158,9 @@ He's a Pluralsight author and writes extensively about both technical and non-te
 
 ## <a name="select"></a>Select New Books and Courses ##
 
-### <a name="new3"></a>[Enhancing Adobe Acrobat DC Forms with JavaScript](https://www.apress.com/us/book/9781484228920)
-[![Enhancing Adobe Acrobat DC Forms with JavaScript](/assets/img/learning/apress/enhancing-adobe-acrobat-dc-forms-with-javascript.png)](https://www.apress.com/us/book/9781484228920)
-[Enhancing Adobe Acrobat DC Forms with JavaScript](https://www.apress.com/us/book/9781484228920)  by Jennifer Harder. This book covers Adobe Acrobat DC Forms, JavaScript.
+### <a name="new3"></a>[Enhancing Adobe Acrobat DC Forms with JavaScript](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.apress.com/us/book/9781484228920)
+[![Enhancing Adobe Acrobat DC Forms with JavaScript](/assets/img/learning/apress/enhancing-adobe-acrobat-dc-forms-with-javascript.png)](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.apress.com/us/book/9781484228920)
+[Enhancing Adobe Acrobat DC Forms with JavaScript](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.apress.com/us/book/9781484228920)  by Jennifer Harder. This book covers Adobe Acrobat DC Forms, JavaScript.
 
 #### Publisher's Description
 Take your PDF forms to the next level. In this book, you'll learn various ways to further improve your PDF Forms using simple JavaScript coding. You’ll also discover how a few lines of code can speed up your workflow when working with multiple PDFs in Action Wizard.
@@ -189,14 +186,14 @@ Anyone who needs to create forms for clients or websites: students, lawyers, acc
 
 ## <a name="safari-new"></a>New/Updated Safari Books and Courses ## 
 
-## Business Expert Press
+### Business Expert Press
 * [Project Management for Archaeology](https://www.safaribooksonline.com/library/view/project-management-for/9781631572999/) (Book) by Kathryn N. Wells, Timothy J. Kloppenborg, Rodrigo Vilanova
 
-## Infinite Skills
+### Infinite Skills
 * [Mining the Social Web - Mailboxes](https://www.safaribooksonline.com/library/view/mining-the-social/9781491989906/) (Video) by Mikhail Klassen
 * [Using Elastic Cloud Compute (EC2) with RDS and PHP Web Applications](https://www.safaribooksonline.com/library/view/using-elastic-cloud/9781491997352/) (Video) by Steve Suehring
 
-## John Wiley & Sons
+### John Wiley & Sons
 * [Artificial Intelligence for Marketing](https://www.safaribooksonline.com/library/view/artificial-intelligence-for/9781119406334/) (Book) by Jim Sterne
 * [AWS for Developers For Dummies](https://www.safaribooksonline.com/library/view/aws-for-developers/9781119371847/) (Book) by John Paul Mueller
 * [Blind Spots](https://www.safaribooksonline.com/library/view/blind-spots/9780730345404/) (Book) by RJ Brideson
@@ -219,22 +216,17 @@ Anyone who needs to create forms for clients or websites: students, lawyers, acc
 * [The Next Generation](https://www.safaribooksonline.com/library/view/the-next-generation/9780730345046/) (Book) by Tony Ryan
 * [Wealth Management Unwrapped, Revised and Expanded](https://www.safaribooksonline.com/library/view/wealth-management-unwrapped/9781119403692/) (Book) by Charlotte Beyer
 
-## O'Reilly Media, Inc.
+### O'Reilly Media, Inc.
 * [Agile Application Security](https://www.safaribooksonline.com/library/view/agile-application-security/9781491938836/) (Book) by Laura Bell, Jim Bird, Rich Smith, Michael Brunton-Spall
 
-## Packt Publishing
+### Packt Publishing
 * [Getting Started with Docker 1.12](https://www.safaribooksonline.com/library/view/getting-started-with/9781788477000/) (Video) by Viktor Farcic
 * [Puppet 5 Essentials - Third Edition](https://www.safaribooksonline.com/library/view/puppet-5-essentials/9781787284715/) (Book) by Felix Frank, Martin Alfke
 * [Python For Android Hacking Crash Course: Trojan Perspective](https://www.safaribooksonline.com/library/view/python-for-android/9781788626255/) (Video) by Hussam Khrais
 
-## Sams
+### Sams
 * [Sams Teach Yourself Java in 24 Hours, Eighth Edition](https://www.safaribooksonline.com/library/view/sams-teach-yourself/9780134663647/) (Book) by Rogers Cadenhead
 
-## Stone River eLearning
+### Stone River eLearning
 * [Javascript Best Practices](https://www.safaribooksonline.com/library/view/javascript-best-practices/100000006A0468/) (Video) by Stone River eLearning
 
-{% comment %}
-
-
-## <a name="pluralsight-new"></a>New/Updated Pluralsight Courses ## 
-{% endcomment %}
