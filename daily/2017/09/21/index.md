@@ -19,12 +19,12 @@ published: true
 ## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
 
-* [SFML Game Development By Example](#packt-daily)
-* [OS X App Development with CloudKit and Swift](#apress-daily) 
-* [Mesos in Action](#manning-daily-1)
-* [OpenShift in Action](#manning-daily-2)
-* [Docker in Motion](#manning-daily-3)
-* [Dag Prawitz on Proofs and Meaning](#springer-daily) 
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/21/#packt-daily"><img class="resize" alt="SFML Game Development By Example" src="/assets/img/learning/packt/sfml-game-development-by-example.jpg"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/21/#apress-daily"><img class="resize" alt="OS X App Development with CloudKit and Swift" src="/assets/img/learning/apress/os-x-app-development-with-cloudkit-and-swift.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/21/#manning-daily-1"><img class="resize" alt="Mesos in Action" src="/assets/img/learning/manning/mesos-in-action.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/21/#manning-daily-2"><img class="resize" alt="OpenShift in Action" src="/assets/img/learning/manning/openshift-in-action-meap.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/21/#manning-daily-3"><img class="resize" alt="Docker in Motion" src="/assets/img/learning/manning/docker-in-motion-meap.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/21/#springer-daily"><img class="resize" alt="Dag Prawitz on Proofs and Meaning" src="/assets/img/learning/springer/dag-prawitz-on-proofs-and-meaning.png"/></a></div>
 
 ### <a name="packt-daily"></a><small>Free</small> [SFML Game Development By Example](https://www.packtpub.com/packt/offers/free-learning) 
 [![SFML Game Development By Example](/assets/img/learning/packt/sfml-game-development-by-example.jpg)](https://www.packtpub.com/packt/offers/free-learning)

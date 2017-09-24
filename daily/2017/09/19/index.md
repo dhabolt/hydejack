@@ -17,11 +17,11 @@ published: true
 ## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
 
-* [Practical DevOps](#packt-daily)
-* [Big Data and The Internet of Things](#apress-daily) Enterprise Information Architecture for A New Age
-* [Data Munging with R](#manning-daily-1)
-* [Visualizing Graph Data](#manning-daily-2)
-* [Introducing Data Science](#manning-daily-3)
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/19/#packt-daily"><img class="resize" alt="Practical DevOps" src="/assets/img/learning/packt/practical-devops.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/19/#apress-daily"><img class="resize" alt="Big Data and The Internet of Things" src="/assets/img/learning/apress/big-data-and-the-internet-of-things.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/19/#manning-daily-1"><img class="resize" alt="Data Munging with R" src="/assets/img/learning/manning/data-munging-with-r.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/19/#manning-daily-2"><img class="resize" alt="Visualizing Graph Data" src="/assets/img/learning/manning/visualizing-graph-data.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/19/#manning-daily-3"><img class="resize" alt="Introducing Data Science" src="/assets/img/learning/manning/introducing-data-science.png"/></a></div>
 
 ### <a name="packt-daily"></a><small>Free</small> [Practical DevOps](https://www.packtpub.com/packt/offers/free-learning) 
 [![Practical DevOps](/assets/img/learning/packt/practical-devops.png)](https://www.packtpub.com/packt/offers/free-learning)
@@ -140,8 +140,8 @@ This book assumes you're comfortable reading code in Python or a similar languag
 
 ## <a name="select"></a>Select New Books and Courses ##
 
-* [Practical Concurrent Haskell](#new1)
-* [Amazon Web Services in Action, Second Edition](#new2)
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/19/#new1"><img class="resize" alt="Practical Concurrent Haskell" src="/assets/img/learning/apress/practical-concurrent-haskell.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/19/#new2"><img class="resize" alt="Amazon Web Services in Action, Second Edition" src="/assets/img/learning/manning/amazon-web-services-in-action-second-edition-meap.png"/></a></div>
 
 ### <a name="new1"></a>[Practical Concurrent Haskell](http://www.apress.com/us/book/9781484227800)
 [![Practical Concurrent Haskell](/assets/img/learning/apress/practical-concurrent-haskell.png)](http://www.apress.com/us/book/9781484227800)

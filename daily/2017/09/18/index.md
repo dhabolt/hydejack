@@ -18,11 +18,11 @@ published: true
 ## <a name="sale"></a>Books on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
 
-* [Professional CSS3](#packt-daily)
-* [Agile Project Management using Team Foundation Server 2015](#apress-daily) 
-* [Linux in Action](#manning-daily)
-* [Learn Linux in a Month of Lunches](#manning-daily-2)
-* [Kubernetes in Action](#manning-daily-3)
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/18/#packt-daily"><img class="resize" alt="Professional CSS3" src="/assets/img/learning/packt/professional-css3.jpg"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/18/#apress-daily"><img class="resize" alt="Agile Project Management using Team Foundation Server 2015" src="/assets/img/learning/apress/agile-project-management-using-team-foundation-server-2015-small.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/18/#manning-daily"><img class="resize" alt="Linux in Action" src="/assets/img/learning/manning/linux-in-action-meap.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/18/#manning-daily-2"><img class="resize" alt="Learn Linux in a Month of Lunches" src="/assets/img/learning/manning/learn-linux-in-a-month-of-lunches-final.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/18/#manning-daily-3"><img class="resize" alt="Kubernetes in Action" src="/assets/img/learning/manning/kubernetes-in-action.png"/></a></div>
 
 ### <a name="packt-daily"></a><small>Free</small> [Professional CSS3](https://www.packtpub.com/packt/offers/free-learning) 
 ![Professional CSS3](/assets/img/learning/packt/professional-css3.jpg)
