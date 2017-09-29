@@ -23,6 +23,7 @@ These deals are good for today only, so be sure to take advantage of the pricing
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/28/#manning-daily-1"><img class="resize" alt="Xamarin in Action" src="/assets/img/learning/manning/xamarin-in-action-meap.png"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/28/#manning-daily-2"><img class="resize" alt="iOS Development with Swift" src="/assets/img/learning/manning/ios-development-with-swift.png"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/28/#manning-daily-3"><img class="resize" alt=".NET Core in Action" src="/assets/img/learning/manning/DotNET-Core-in-Action.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/28/#apress-daily"><img class="resize" alt="MVVM in Delphi" src="/assets/img/learning/apress/mvvm-in-delphi.png"/></a></div>
 
 ### <a name="packt-daily"></a><small>Free</small> [Machine Learning for the Web](https://www.packtpub.com/packt/offers/free-learning) 
 [![Machine Learning for the Web](/assets/img/learning/packt/machine-learning-for-the-web.jpg)](https://www.packtpub.com/packt/offers/free-learning)
@@ -114,7 +115,34 @@ This book is for developers who are familiar with a C-like language.
 #### About the author
 **Dustin Metzgar** has developed software professionally for 13 years. He has worked for many companies from startups to large enterprises before joining Microsoft. He specializes in performance in both .NET and Azure services and participated in a number of .NET Core projects. Dustin owns several products, including the Windows Workflow Foundation.
 
+### <a name="apress-daily"></a><small>$9.99</small> [MVVM in Delphi](http://www.anrdoezrs.net/links/8423497/type/dlg/http://www.apress.com/us/book/9781484222133)
+[![MVVM in Delphi](/assets/img/learning/apress/mvvm-in-delphi.png)](http://www.anrdoezrs.net/links/8423497/type/dlg/http://www.apress.com/us/book/9781484222133)
+[$9.99 Apress eBook](http://www.anrdoezrs.net/links/8423497/type/dlg/http://www.apress.com/us/book/9781484222133) by John Kouraklis. This book covers Delphi, MVVM.
+
+#### Publisher's Description
+* Guides developers to design applications in Delphi based on the MVVM design pattern
+* Provides step-by-step guide to designing and writing applications in Delphi
+* Author is a Delphi expert who builds complex applications every day with it
+
+Dive into the world of MVVM, learn how to build modern Windows applications, and prepare for cross-platform development. This book introduces you to the right mindset and demonstrates suitable methodologies that allow for quick understanding of the MVVM paradigm. MVVM in Delphi shows you how to use a quick and efficient MVVM framework that allows for scalability, is of manageable complexity, and provides strong efficiency.
+
+One of the biggest challenges developers face is how to convert legacy and monolithic Delphi applications to the MVVM architecture. This book takes you on a step-by-step journey and teaches you how to adapt an application to fit into the MVVM design.
+
+#### What You Will Learn
+* Gain the fundamentals of MVVM 
+* Visualize MVVM as a design philosophy
+* Create easy-to-use frameworks for building your own MVVM applications
+* Develop a methodology for converting legacy applications to the MVVM pattern
+* Architect cross-platform and multi-lingual applications using the MVVM pattern
+
+#### Who This Book Is For
+Delphi developers with a good knowledge of Delphi or programming experience in a different language. In addition, this book is attractive to Delphi developers who want to modernize existing applications based on the MVVM design. 
+
+#### About the Author
+**John Kouraklis** started exploring computers when he was 16 and since then has followed all the way from Turbo Pascal to Delphi and Delphi XE7 versions as a hobby initially and as a profession for most of his adult life. He has developed a wide range of applications, from financial software to reverse engineering tools, including an application for professional gamblers.
+
 ## <a name="safari-new"></a>New/Updated Safari Books and Courses ## 
+
 ### Fair Winds Press
 * [The 150 Healthiest Foods on Earth, Revised Edition](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/the-150-healthiest/9781592337644/) (Book) by Jonny Bowden
 
