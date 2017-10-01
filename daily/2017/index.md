@@ -12,6 +12,7 @@ navigation: '<< Daily Dose for 2016 &#124; 2017 &#124; Daily Dose for 2018 >>'
 
 ## Monthly Archives
 
+* [October 2017](/daily/2017/10/)
 * [September 2017](/daily/2017/09/)
 
 <hr/>

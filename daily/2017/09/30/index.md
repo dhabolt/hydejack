@@ -4,27 +4,25 @@ title:  'Daily Dose for 2017.09.30'
 date:   2017-09-30 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
-navigation: '<< [Daily Dose for 2017.09.29](/daily/2017/09/29/) &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; Daily Dose for 2017.10.01 >>'
+navigation: '<< [Daily Dose for 2017.09.29](/daily/2017/09/29/) &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.10.01](/daily/2017/10/01/) >>'
 published: true
 ---
 {% comment %}
 * [New/Updated Pluralsight Courses](#pluralsight-new)
 {% endcomment %}
 
-## Sections
-* [Books/Videos on Sale (or Free) Today](#sale)
-* [Select New Books and Courses](#select)
-* [New/Updated Safari Books and Courses](#safari-new)
-
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/30/#packt-daily"><img class="resize" alt="Mastering Windows PowerShell Scripting" src="/assets/img/learning/packt/mastering-windows-powershell-scripting.png"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/30/#apress-daily"><img class="resize" alt="Pro SQL Server Always On Availability Groups" src="/assets/img/learning/apress/pro-sql-server-always-on-availability-groups.png"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/30/#manning-daily-1"><img class="resize" alt="JavaScript on Things" src="/assets/img/learning/manning/JavaScript-on-Things-thumb.jpg"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/30/#manning-daily-2"><img class="resize" alt="Building the Web of Things" src="/assets/img/learning/manning/building-the-web-of-things.png"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/30/#manning-daily-3"><img class="resize" alt="Hello Raspberry Pi!" src="/assets/img/learning/manning/hello-raspberry-pi.jpg"/></a></div>
-
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/30/#new2"><img class="resize" alt="Swift in Depth" src="/assets/img/learning/manning/swift-in-depth-meap.png"/></a></div>
-
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/30/#new1"><img class="resize" alt="ASP.NET Core Identity Management Playbook" src="/assets/img/learning/pluralsight/asp-net-core-identity-management-playbook.png"/></a></div>
+
+## Sections
+* [Books/Videos on Sale (or Free) Today](#sale)
+* [Select New Books and Courses](#select)
+* [New/Updated Safari Books and Courses](#safari-new)
 
 ## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
