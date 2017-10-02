@@ -132,7 +132,7 @@ exclude:
   - licenses
   - assets/bower_components/html5shiv/MIT and GPL2 licenses
   - assets/icomoon/demo.html
-
+  - s3_website.yml
 
 kramdown:
   footnote_backlink: '&#x21a9;&#xfe0e;'
