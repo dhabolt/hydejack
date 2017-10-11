@@ -4,7 +4,7 @@ title:  'Daily Dose for 2017.10.10'
 date:   2017-10-10 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
-navigation: '<< [Daily Dose for 2017.10.09](/daily/2017/10/09/) &#124; [Oct 2017](/daily/2017/10/) &#124; [2017](/daily/2017/) &#124; Daily Dose for 2017.10.11 >>'
+navigation: '<< [Daily Dose for 2017.10.09](/daily/2017/10/09/) &#124; [Oct 2017](/daily/2017/10/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.10.11](/daily/2017/10/11/) >>'
 published: true
 ---
 {% comment %}
