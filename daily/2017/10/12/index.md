@@ -4,12 +4,12 @@ title:  'Daily Dose for 2017.10.12'
 date:   2017-10-12 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
-navigation: '<< [Daily Dose for 2017.10.11](/daily/2017/10/11/) &#124; [Oct 2017](/daily/2017/10/) &#124; [2017](/daily/2017/) &#124; Daily Dose for 2017.10.13 >>'
+navigation: '<< [Daily Dose for 2017.10.11](/daily/2017/10/11/) &#124; [Oct 2017](/daily/2017/10/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.10.13](/daily/2017/10/13/) >>'
 published: true
 ---
 {% comment %}
+* [New/Updated Safari Books and Courses](#safari-new)
 * [Select New Books and Courses](#select)
-* [New/Updated Pluralsight Courses](#pluralsight-new)
 {% endcomment %}
 
 <div class="image-box"><a href="{{site.url}}/daily/2017/10/12/#packt-daily"><img class="resize" alt="Learning Penetration Testing with Python" src="/assets/img/learning/packt/learning-penetration-testing-with-python.png"/></a></div>
@@ -22,7 +22,7 @@ published: true
 
 ## Sections
 * [Books/Videos on Sale (or Free) Today](#sale)
-* [New/Updated Safari Books and Courses](#safari-new)
+* [New/Updated Pluralsight Courses](#pluralsight-new)
 
 ## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
@@ -170,9 +170,6 @@ Android Framework provides developers with four components: Activity, Service, B
 #### About the Author: Sriyank Siddhartha
 Sriyank began his career with a Bachelor of Technology in Computer Science from India. After working 2 years in Java, he found a great interest in Mobile Application Development. Sriyank works with a software company, Mindfire Solutions, in India developing Android and iOS applications. He also trains new recruits and helps them to boost their programming skills. Sriyank has a great passion for teaching, which led him to join the Google Developers Group and hold tech workshops and tech conferences on App making every weekend in various Technical Institutions in India as a Guest Lecturer. In his free time, he loves visiting new places and spending time with his nears and dears.
 
-## <a name="safari-new"></a>New/Updated Safari Books and Courses ## 
-
-
 ## <a name="pluralsight-new"></a>New/Updated Pluralsight Courses ## 
 * [3ds Max Animation Fundamentals](https://app.pluralsight.com/library/courses/3ds-max-animation-fundamentals/table-of-contents) (Video) by Billy Reiter
 * [CSSLP®: Secure Software Design](https://app.pluralsight.com/library/courses/csslp-secure-software-design/table-of-contents) (Video) by Kevin Henry
@@ -181,5 +178,6 @@ Sriyank began his career with a Bachelor of Technology in Computer Science from 
 
 {% comment %}
 ## <a name="select"></a>Select New Books and Courses ##
+## <a name="safari-new"></a>New/Updated Safari Books and Courses ## 
 
 {% endcomment %}
