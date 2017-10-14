@@ -7,9 +7,12 @@ comments: true
 navigation: '<< [Daily Dose for 2017.09.27](/daily/2017/09/27/) &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.09.29](/daily/2017/09/29/) >>'
 published: true
 ---
-{% comment %}
-* [Select New Books and Courses](#select)
-{% endcomment %}
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/28/#packt-daily"><img class="resize" alt="Machine Learning for the Web" src="/assets/img/learning/packt/machine-learning-for-the-web.jpg"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/28/#manning-daily-1"><img class="resize" alt="Xamarin in Action" src="/assets/img/learning/manning/xamarin-in-action-meap.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/28/#manning-daily-2"><img class="resize" alt="iOS Development with Swift" src="/assets/img/learning/manning/ios-development-with-swift.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/28/#manning-daily-3"><img class="resize" alt=".NET Core in Action" src="/assets/img/learning/manning/DotNET-Core-in-Action.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/28/#apress-daily"><img class="resize" alt="MVVM in Delphi" src="/assets/img/learning/apress/mvvm-in-delphi.png"/></a></div>
+
 
 ## Sections
 * [Books/Videos on Sale (or Free) Today](#sale)
@@ -18,12 +21,6 @@ published: true
 
 ## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
-
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/28/#packt-daily"><img class="resize" alt="Machine Learning for the Web" src="/assets/img/learning/packt/machine-learning-for-the-web.jpg"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/28/#manning-daily-1"><img class="resize" alt="Xamarin in Action" src="/assets/img/learning/manning/xamarin-in-action-meap.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/28/#manning-daily-2"><img class="resize" alt="iOS Development with Swift" src="/assets/img/learning/manning/ios-development-with-swift.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/28/#manning-daily-3"><img class="resize" alt=".NET Core in Action" src="/assets/img/learning/manning/DotNET-Core-in-Action.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/28/#apress-daily"><img class="resize" alt="MVVM in Delphi" src="/assets/img/learning/apress/mvvm-in-delphi.png"/></a></div>
 
 ### <a name="packt-daily"></a><small>Free</small> [Machine Learning for the Web](https://www.packtpub.com/packt/offers/free-learning) 
 [![Machine Learning for the Web](/assets/img/learning/packt/machine-learning-for-the-web.jpg)](https://www.packtpub.com/packt/offers/free-learning)

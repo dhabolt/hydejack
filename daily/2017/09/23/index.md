@@ -7,9 +7,13 @@ comments: true
 navigation: '<< [Daily Dose for 2017.09.22](/daily/2017/09/22/) &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.09.24](/daily/2017/09/24/) >>'
 published: true
 ---
-{% comment %}
-* [Select New Books and Courses](#select)
-{% endcomment %}
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/23/#packt-daily"><img class="resize" alt="Mastering Microservices with Java" src="/assets/img/learning/packt/mastering-microservices.with-java.jpg"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/23/#apress-daily"><img class="resize" alt="Building Great Software Engineering Teams" src="/assets/img/learning/apress/building-great-software-engineering-teams.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/23/#manning-daily-1"><img class="resize" alt="Google Cloud Platform in Action" src="/assets/img/learning/manning/google-cloud-platform-in-action-meap.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/23/#manning-daily-2"><img class="resize" alt="Cloud Native" src="/assets/img/learning/manning/cloud-native.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/23/#manning-daily-3"><img class="resize" alt="OpenStack in Action" src="/assets/img/learning/manning/openstack-in-action.png"/></a></div>
+
+
 
 ## Sections
 * [Books/Videos on Sale (or Free) Today](#sale)
@@ -18,12 +22,6 @@ published: true
 
 ## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
-
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/23/#packt-daily"><img class="resize" alt="Mastering Microservices with Java" src="/assets/img/learning/packt/mastering-microservices.with-java.jpg"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/23/#apress-daily"><img class="resize" alt="Building Great Software Engineering Teams" src="/assets/img/learning/apress/building-great-software-engineering-teams.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/23/#manning-daily-1"><img class="resize" alt="Google Cloud Platform in Action" src="/assets/img/learning/manning/google-cloud-platform-in-action-meap.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/23/#manning-daily-2"><img class="resize" alt="Cloud Native" src="/assets/img/learning/manning/cloud-native.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/23/#manning-daily-3"><img class="resize" alt="OpenStack in Action" src="/assets/img/learning/manning/openstack-in-action.png"/></a></div>
 
 ### <a name="packt-daily"></a><small>Free</small> [Mastering Microservices with Java](https://www.packtpub.com/packt/offers/free-learning) 
 [![Mastering Microservices with Java](/assets/img/learning/packt/mastering-microservices.with-java.jpg)](https://www.packtpub.com/packt/offers/free-learning)

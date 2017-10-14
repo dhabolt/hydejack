@@ -7,9 +7,13 @@ comments: true
 navigation: '<< [Daily Dose for 2017.09.21](/daily/2017/09/21/) &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.09.23](/daily/2017/09/23/) >>'
 published: true
 ---
-{% comment %}
-* [New/Updated Pluralsight Courses](#pluralsight-new)
-{% endcomment %}
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/22/#packt-daily"><img class="resize" alt="Python 3 Object-oriented Programming, Second Edition" src="/assets/img/learning/packt/python-3-object-oriented-programming-second-edition.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/22/#apress-daily"><img class="resize" alt="Practical Maintenance Plans in SQL Server" src="/assets/img/learning/apress/practical-maintenance-plans-in-sql-server.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/22/#manning-daily-1"><img class="resize" alt="Amazon Web Services in Action, Second Edition" src="/assets/img/learning/manning/amazon-web-services-in-action-second-edition-meap.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/22/#manning-daily-2"><img class="resize" alt="AWS in Motion" src="/assets/img/learning/manning/aws-in-motion.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/22/#manning-daily-3"><img class="resize" alt="Serverless Architectures on AWS" src="/assets/img/learning/manning/serverless-architectures-on-aws.png"/></a></div>
+
+
 
 ## Sections
 * [Books/Videos on Sale (or Free) Today](#sale)
@@ -18,12 +22,6 @@ published: true
 
 ## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
-
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/22/#packt-daily"><img class="resize" alt="Python 3 Object-oriented Programming, Second Edition" src="/assets/img/learning/packt/python-3-object-oriented-programming-second-edition.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/22/#apress-daily"><img class="resize" alt="Practical Maintenance Plans in SQL Server" src="/assets/img/learning/apress/practical-maintenance-plans-in-sql-server.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/22/#manning-daily-1"><img class="resize" alt="Amazon Web Services in Action, Second Edition" src="/assets/img/learning/manning/amazon-web-services-in-action-second-edition-meap.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/22/#manning-daily-2"><img class="resize" alt="AWS in Motion" src="/assets/img/learning/manning/aws-in-motion.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/22/#manning-daily-3"><img class="resize" alt="Serverless Architectures on AWS" src="/assets/img/learning/manning/serverless-architectures-on-aws.png"/></a></div>
 
 ### <a name="packt-daily"></a><small>Free</small> [Python 3 Object-oriented Programming, Second Edition](https://www.packtpub.com/packt/offers/free-learning) 
 [![Python 3 Object-oriented Programming, Second Edition](/assets/img/learning/packt/python-3-object-oriented-programming-second-edition.png)](https://www.packtpub.com/packt/offers/free-learning)

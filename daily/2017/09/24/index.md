@@ -7,10 +7,13 @@ comments: true
 navigation: '<< [Daily Dose for 2017.09.23](/daily/2017/09/23/) &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.09.25](/daily/2017/09/25/) >>'
 published: true
 ---
-{% comment %}
-* [Select New Books and Courses](#select)
-* [New/Updated Pluralsight Courses](#pluralsight-new)
-{% endcomment %}
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/24/#packt-daily"><img class="resize" alt="Kali Linux 2: Windows Penetration Testing" src="/assets/img/learning/packt/kali-linux-2-windows-penetration-testing.jpg"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/24/#informit-daily"><img class="resize" alt="SQL Server 2016 High Availability Unleashed" src="/assets/img/learning/informit/sql-server-2016-high-availability-unleashed.jpg"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/24/#apress-daily"><img class="resize" alt="Kubernetes Microservices with Docker" src="/assets/img/learning/apress/kubernetes-microservices-with-docker.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/24/#manning-daily-1"><img class="resize" alt="Kotlin in Action" src="/assets/img/learning/manning/kotlin-in-action.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/24/#manning-daily-2"><img class="resize" alt="Effective Unit Testing" src="/assets/img/learning/manning/effective-unit-testing.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/24/#manning-daily-3"><img class="resize" alt="Camel in Action, Second Edition" src="/assets/img/learning/manning/camel-in-action-second-edition-meap.png"/></a></div>
+
 
 ## Sections
 * [Books/Videos on Sale (or Free) Today](#sale)
@@ -18,13 +21,6 @@ published: true
 
 ## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
-
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/24/#packt-daily"><img class="resize" alt="Kali Linux 2: Windows Penetration Testing" src="/assets/img/learning/packt/kali-linux-2-windows-penetration-testing.jpg"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/24/#informit-daily"><img class="resize" alt="SQL Server 2016 High Availability Unleashed" src="/assets/img/learning/informit/sql-server-2016-high-availability-unleashed.jpg"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/24/#apress-daily"><img class="resize" alt="Kubernetes Microservices with Docker" src="/assets/img/learning/apress/kubernetes-microservices-with-docker.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/24/#manning-daily-1"><img class="resize" alt="Kotlin in Action" src="/assets/img/learning/manning/kotlin-in-action.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/24/#manning-daily-2"><img class="resize" alt="Effective Unit Testing" src="/assets/img/learning/manning/effective-unit-testing.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/24/#manning-daily-3"><img class="resize" alt="Camel in Action, Second Edition" src="/assets/img/learning/manning/camel-in-action-second-edition-meap.png"/></a></div>
 
 ### <a name="packt-daily"></a><small>Free</small> [Kali Linux 2: Windows Penetration Testing](https://www.packtpub.com/packt/offers/free-learning) 
 [![Kali Linux 2: Windows Penetration Testing](/assets/img/learning/packt/kali-linux-2-windows-penetration-testing.jpg)](https://www.packtpub.com/packt/offers/free-learning)

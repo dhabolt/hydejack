@@ -7,6 +7,12 @@ comments: true
 navigation: '<< [Daily Dose for 2017.09.18](/daily/2017/09/18/) &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.09.20](/daily/2017/09/20/) >>'
 published: true
 ---
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/19/#packt-daily"><img class="resize" alt="Practical DevOps" src="/assets/img/learning/packt/practical-devops.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/19/#apress-daily"><img class="resize" alt="Big Data and The Internet of Things" src="/assets/img/learning/apress/big-data-and-the-internet-of-things.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/19/#manning-daily-1"><img class="resize" alt="Data Munging with R" src="/assets/img/learning/manning/data-munging-with-r.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/19/#manning-daily-2"><img class="resize" alt="Visualizing Graph Data" src="/assets/img/learning/manning/visualizing-graph-data.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/19/#manning-daily-3"><img class="resize" alt="Introducing Data Science" src="/assets/img/learning/manning/introducing-data-science.png"/></a></div>
+
 
 ## Sections
 * [Books/Videos on Sale (or Free) Today](#sale)
@@ -16,12 +22,6 @@ published: true
 
 ## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
-
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/19/#packt-daily"><img class="resize" alt="Practical DevOps" src="/assets/img/learning/packt/practical-devops.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/19/#apress-daily"><img class="resize" alt="Big Data and The Internet of Things" src="/assets/img/learning/apress/big-data-and-the-internet-of-things.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/19/#manning-daily-1"><img class="resize" alt="Data Munging with R" src="/assets/img/learning/manning/data-munging-with-r.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/19/#manning-daily-2"><img class="resize" alt="Visualizing Graph Data" src="/assets/img/learning/manning/visualizing-graph-data.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/19/#manning-daily-3"><img class="resize" alt="Introducing Data Science" src="/assets/img/learning/manning/introducing-data-science.png"/></a></div>
 
 ### <a name="packt-daily"></a><small>Free</small> [Practical DevOps](https://www.packtpub.com/packt/offers/free-learning) 
 [![Practical DevOps](/assets/img/learning/packt/practical-devops.png)](https://www.packtpub.com/packt/offers/free-learning)

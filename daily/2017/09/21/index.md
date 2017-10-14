@@ -7,17 +7,6 @@ comments: true
 navigation: '<< [Daily Dose for 2017.09.20](/daily/2017/09/20/) &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.09.22](/daily/2017/09/22/) >>'
 published: true
 ---
-{% comment %}
-* [Select New Books and Courses](#select)
-* [New/Updated Pluralsight Courses](#pluralsight-new)
-{% endcomment %}
-
-## Sections
-* [Books/Videos on Sale (or Free) Today](#sale)
-* [New/Updated Safari Books and Courses](#safari-new)
-
-## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
-These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
 
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/21/#packt-daily"><img class="resize" alt="SFML Game Development By Example" src="/assets/img/learning/packt/sfml-game-development-by-example.jpg"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/21/#apress-daily"><img class="resize" alt="OS X App Development with CloudKit and Swift" src="/assets/img/learning/apress/os-x-app-development-with-cloudkit-and-swift.png"/></a></div>
@@ -25,6 +14,14 @@ These deals are good for today only, so be sure to take advantage of the pricing
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/21/#manning-daily-2"><img class="resize" alt="OpenShift in Action" src="/assets/img/learning/manning/openshift-in-action-meap.png"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/21/#manning-daily-3"><img class="resize" alt="Docker in Motion" src="/assets/img/learning/manning/docker-in-motion-meap.png"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/21/#springer-daily"><img class="resize" alt="Dag Prawitz on Proofs and Meaning" src="/assets/img/learning/springer/dag-prawitz-on-proofs-and-meaning.png"/></a></div>
+
+
+## Sections
+* [Books/Videos on Sale (or Free) Today](#sale)
+* [New/Updated Safari Books and Courses](#safari-new)
+
+## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
+These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
 
 ### <a name="packt-daily"></a><small>Free</small> [SFML Game Development By Example](https://www.packtpub.com/packt/offers/free-learning) 
 [![SFML Game Development By Example](/assets/img/learning/packt/sfml-game-development-by-example.jpg)](https://www.packtpub.com/packt/offers/free-learning)

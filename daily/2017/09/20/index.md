@@ -7,6 +7,12 @@ comments: true
 navigation: '<< [Daily Dose for 2017.09.19](/daily/2017/09/19/) &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.09.21](/daily/2017/09/21/) >>'
 published: true
 ---
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/20/#packt-daily"><img class="resize" alt="Python Machine Learning Blueprints" src="/assets/img/learning/packt/python-machine-learning-blueprints.jpg"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/20/#apress-daily"><img class="resize" alt="Anti-Money Laundering in a Nutshell" src="/assets/img/learning/apress/anti-money-laundering-in-a-nutshell.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/20/#manning-daily-1"><img class="resize" alt="D3.js in Action, Second Edition" src="/assets/img/learning/manning/d3-js-in-action-second-edition-meap.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/20/#manning-daily-2"><img class="resize" alt="D3.js in Motion" src="/assets/img/learning/manning/d3-js-in-motion.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/20/#manning-daily-3"><img class="resize" alt="Get Programming with JavaScript" src="/assets/img/learning/manning/get-programming-with-javascript.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/20/#pluralfree"><img class="resize" alt="Getting Started with TeamCity" src="/assets/img/learning/pluralsight/getting-started-with-teamcity.png"/></a></div>
 
 ## Sections
 * [Books/Videos on Sale (or Free) Today](#sale)
@@ -15,13 +21,6 @@ published: true
 
 ## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
-
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/20/#packt-daily"><img class="resize" alt="Python Machine Learning Blueprints" src="/assets/img/learning/packt/python-machine-learning-blueprints.jpg"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/20/#apress-daily"><img class="resize" alt="Anti-Money Laundering in a Nutshell" src="/assets/img/learning/apress/anti-money-laundering-in-a-nutshell.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/20/#manning-daily-1"><img class="resize" alt="D3.js in Action, Second Edition" src="/assets/img/learning/manning/d3-js-in-action-second-edition-meap.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/20/#manning-daily-2"><img class="resize" alt="D3.js in Motion" src="/assets/img/learning/manning/d3-js-in-motion.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/20/#manning-daily-3"><img class="resize" alt="Get Programming with JavaScript" src="/assets/img/learning/manning/get-programming-with-javascript.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/20/#pluralfree"><img class="resize" alt="Getting Started with TeamCity" src="/assets/img/learning/pluralsight/getting-started-with-teamcity.png"/></a></div>
 
 ### <a name="packt-daily"></a><small>Free</small> [Python Machine Learning Blueprints](https://www.packtpub.com/packt/offers/free-learning) Intuitive data projects you can relate to
 [![Python Machine Learning Blueprints](/assets/img/learning/packt/python-machine-learning-blueprints.jpg)](https://www.packtpub.com/packt/offers/free-learning)

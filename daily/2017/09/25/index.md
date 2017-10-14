@@ -7,22 +7,16 @@ comments: true
 navigation: '<< [Daily Dose for 2017.09.24](/daily/2017/09/24/) &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.09.26](/daily/2017/09/26/) >>'
 published: true
 ---
-{% comment %}
-## Sections
-* [Books/Videos on Sale (or Free) Today](#sale)
-* [Select New Books and Courses](#select)
-* [New/Updated Safari Books and Courses](#safari-new)
-* [New/Updated Pluralsight Courses](#pluralsight-new)
-{% endcomment %}
-
-## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
-These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
-
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/25/#packt-daily"><img class="resize" alt="DevOps Automation Cookbook" src="/assets/img/learning/packt/devops-automation-cookbook.png"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/25/#apress-daily"><img class="resize" alt="Building Embedded Systems" src="/assets/img/learning/apress/building-embedded-systems.png"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/25/#manning-daily-1"><img class="resize" alt="CoreOS in Action" src="/assets/img/learning/manning/CoreOS-in-Action.png"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/25/#manning-daily-2"><img class="resize" alt="AWS Lambda in Action" src="/assets/img/learning/manning/aws-lambda-in-action.png"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/09/25/#manning-daily-3"><img class="resize" alt="Docker in Practice, Second Edition" src="/assets/img/learning/manning/docker-in-practice-second-edition.png"/></a></div>
+
+
+
+## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
+These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
 
 ### <a name="packt-daily"></a><small>Free</small> [DevOps Automation Cookbook](https://www.packtpub.com/packt/offers/free-learning) 
 [![DevOps Automation Cookbook](/assets/img/learning/packt/devops-automation-cookbook.png)](https://www.packtpub.com/packt/offers/free-learning)

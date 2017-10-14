@@ -7,9 +7,14 @@ comments: true
 navigation: '<< [Daily Dose for 2017.09.26](/daily/2017/09/26/) &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.09.28](/daily/2017/09/28/) >>'
 published: true
 ---
-{% comment %}
-* [Select New Books and Courses](#select)
-{% endcomment %}
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/27/#packt-daily"><img class="resize" alt="Raspberry Pi for Secret Agents, Third Edition" src="/assets/img/learning/packt/raspberry-pi-for-secret-agents-third-edition.jpg"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/27/#apress-daily"><img class="resize" alt="Managing Humans, Third Edition" src="/assets/img/learning/apress/managing-humans-third-edition.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/27/#manning-daily-1"><img class="resize" alt="RabbitMQ in Depth" src="/assets/img/learning/manning/rabbitmq-in-depth.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/27/#manning-daily-2"><img class="resize" alt="RabbitMQ in Action" src="/assets/img/learning/manning/rabbitmq-in-action.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/27/#manning-daily-3"><img class="resize" alt="Programmer's Guide to Apache Thrift" src="/assets/img/learning/manning/programmers-guide-to-apache-thrift.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/27/#pluralfree"><img class="resize" alt="Introduction to CATIA V5" src="/assets/img/learning/pluralsight/introduction-to-catia-v5.png"/></a></div>
+
+
 
 ## Sections
 * [Books/Videos on Sale (or Free) Today](#sale)
@@ -18,13 +23,6 @@ published: true
 
 ## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
-
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/27/#packt-daily"><img class="resize" alt="Raspberry Pi for Secret Agents, Third Edition" src="/assets/img/learning/packt/raspberry-pi-for-secret-agents-third-edition.jpg"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/27/#apress-daily"><img class="resize" alt="Managing Humans, Third Edition" src="/assets/img/learning/apress/managing-humans-third-edition.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/27/#manning-daily-1"><img class="resize" alt="RabbitMQ in Depth" src="/assets/img/learning/manning/rabbitmq-in-depth.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/27/#manning-daily-2"><img class="resize" alt="RabbitMQ in Action" src="/assets/img/learning/manning/rabbitmq-in-action.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/27/#manning-daily-3"><img class="resize" alt="Programmer's Guide to Apache Thrift" src="/assets/img/learning/manning/programmers-guide-to-apache-thrift.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/27/#pluralfree"><img class="resize" alt="Introduction to CATIA V5" src="/assets/img/learning/pluralsight/introduction-to-catia-v5.png"/></a></div>
 
 ### <a name="packt-daily"></a><small>Free</small> [Raspberry Pi for Secret Agents, Third Edition](https://www.packtpub.com/packt/offers/free-learning) 
 [![Raspberry Pi for Secret Agents, Third Edition](/assets/img/learning/packt/raspberry-pi-for-secret-agents-third-edition.jpg)](https://www.packtpub.com/packt/offers/free-learning)

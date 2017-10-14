@@ -7,9 +7,13 @@ comments: true
 navigation: '<< [Daily Dose for 2017.09.25](/daily/2017/09/25/) &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.09.27](/daily/2017/09/27/) >>'
 published: true
 ---
-{% comment %}
-* [Select New Books and Courses](#select)
-{% endcomment %}
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/26/#packt-daily"><img class="resize" alt="Unity Virtual Reality Projects" src="/assets/img/learning/packt/unity-virtual-reality-projects.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/26/#apress-daily"><img class="resize" alt="Commercializing Innovation" src="/assets/img/learning/apress/commercializing-innovation.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/26/#manning-daily-1"><img class="resize" alt="Get Programming with Go" src="/assets/img/learning/manning/get-programming-with-go.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/26/#manning-daily-2"><img class="resize" alt="Go Web Programming" src="/assets/img/learning/manning/go-web-programming.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/26/#manning-daily-3"><img class="resize" alt="Go in Action" src="/assets/img/learning/manning/go-in-action.png"/></a></div>
+
+
 
 ## Sections
 * [Books/Videos on Sale (or Free) Today](#sale)
@@ -18,12 +22,6 @@ published: true
 
 ## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
-
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/26/#packt-daily"><img class="resize" alt="Unity Virtual Reality Projects" src="/assets/img/learning/packt/unity-virtual-reality-projects.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/26/#apress-daily"><img class="resize" alt="Commercializing Innovation" src="/assets/img/learning/apress/commercializing-innovation.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/26/#manning-daily-1"><img class="resize" alt="Get Programming with Go" src="/assets/img/learning/manning/get-programming-with-go.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/26/#manning-daily-2"><img class="resize" alt="Go Web Programming" src="/assets/img/learning/manning/go-web-programming.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/26/#manning-daily-3"><img class="resize" alt="Go in Action" src="/assets/img/learning/manning/go-in-action.png"/></a></div>
 
 ### <a name="packt-daily"></a><small>Free</small> [Unity Virtual Reality Projects](https://www.packtpub.com/packt/offers/free-learning) 
 [![Unity Virtual Reality Projects](/assets/img/learning/packt/unity-virtual-reality-projects.png)](https://www.packtpub.com/packt/offers/free-learning)

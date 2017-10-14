@@ -7,9 +7,12 @@ comments: true
 navigation: '<< [Daily Dose for 2017.09.28](/daily/2017/09/28/) &#124; [Sep 2017](/daily/2017/09/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.09.30](/daily/2017/09/30/) >>'
 published: true
 ---
-{% comment %}
-* [Select New Books and Courses](#select)
-{% endcomment %}
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/29/#packt-daily"><img class="resize" alt="Java Deep Learning Essentials" src="/assets/img/learning/packt/java-deep-learning-essentials.jpg"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/29/#apress-daily"><img class="resize" alt="Beyond jQuery" src="/assets/img/learning/apress/beyond-jquery.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/29/#manning-daily-1"><img class="resize" alt="Windows PowerShell in Action, Third Edition" src="/assets/img/learning/manning/windows-powershell-in-action-third-edition.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/29/#manning-daily-2"><img class="resize" alt="PowerShell in Depth, Second Edition" src="/assets/img/learning/manning/powershell-in-depth-second-edition.png"/></a></div>
+<div class="image-box"><a href="{{site.url}}/daily/2017/09/29/#manning-daily-3"><img class="resize" alt="Learn PowerShell Scripting in a Month of Lunches" src="/assets/img/learning/manning/learn-powershell-scripting-in-a-month-of-lunches-meap-v2.png"/></a></div>
+
 
 ## Sections
 * [Books/Videos on Sale (or Free) Today](#sale)
@@ -18,12 +21,6 @@ published: true
 
 ## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
-
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/29/#packt-daily"><img class="resize" alt="Java Deep Learning Essentials" src="/assets/img/learning/packt/java-deep-learning-essentials.jpg"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/29/#apress-daily"><img class="resize" alt="Beyond jQuery" src="/assets/img/learning/apress/beyond-jquery.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/29/#manning-daily-1"><img class="resize" alt="Windows PowerShell in Action, Third Edition" src="/assets/img/learning/manning/windows-powershell-in-action-third-edition.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/29/#manning-daily-2"><img class="resize" alt="PowerShell in Depth, Second Edition" src="/assets/img/learning/manning/powershell-in-depth-second-edition.png"/></a></div>
-<div class="image-box"><a href="{{site.url}}/daily/2017/09/29/#manning-daily-3"><img class="resize" alt="Learn PowerShell Scripting in a Month of Lunches" src="/assets/img/learning/manning/learn-powershell-scripting-in-a-month-of-lunches-meap-v2.png"/></a></div>
 
 ### <a name="packt-daily"></a><small>Free</small> [Java Deep Learning Essentials](https://www.packtpub.com/packt/offers/free-learning) 
 [![Java Deep Learning Essentials](/assets/img/learning/packt/java-deep-learning-essentials.jpg)](https://www.packtpub.com/packt/offers/free-learning)
