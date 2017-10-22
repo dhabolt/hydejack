@@ -1,10 +1,10 @@
 ---
 layout: daily
-title:  'Daily Dose for 2017.10.21'
-date:   2017-10-21 00:00:00 -0400
+title:  'Daily Dose for 2017.10.22'
+date:   2017-10-22 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
-navigation: '<< [Daily Dose for 2017.10.20](/daily/2017/10/20/) &#124; [Oct 2017](/daily/2017/10/) &#124; [2017](/daily/2017/) &#124; Daily Dose for 2017.10.22 >>'
+navigation: '<< [Daily Dose for 2017.10.21](/daily/2017/10/21/) &#124; [Oct 2017](/daily/2017/10/) &#124; [2017](/daily/2017/) &#124; Daily Dose for 2017.10.23 >>'
 published: false
 ---
 {% comment %}
