@@ -8,7 +8,6 @@ navigation: '<< [Daily Dose for 2017.10.20](/daily/2017/10/20/) &#124; [Oct 2017
 published: true
 ---
 {% comment %}
-* [New/Updated Safari Books and Courses](#safari-new)
 {% endcomment %}
 
 <div class="image-box"><a href="{{site.url}}/daily/2017/10/21/#packt-daily"><img class="resize" alt="React Native Cookbook" src="/assets/img/learning/packt/react-native-cookbook.png"/></a></div>
@@ -22,6 +21,7 @@ published: true
 * [Books/Videos on Sale (or Free) Today](#sale)
 * [Select New Books and Courses](#select)
 * [New/Updated Pluralsight Courses](#pluralsight-new)
+* [New/Updated Safari Books and Courses](#safari-new)
 
 ## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
@@ -175,8 +175,38 @@ When not bringing new ideas to customers, he spends time with his two fantastic 
 * [Understanding ASP.NET Core 2.x](https://app.pluralsight.com/library/courses/understanding-aspdotnet-core-2x/table-of-contents) (Video) by Roland Guijt
 * [Upgrading Your ASP.NET Core 1.x Web API to 2.0](https://app.pluralsight.com/library/courses/aspdotnet-core-2-upgrading-web-api/table-of-contents) (Video) by Kevin Dockx
 
+## <a name="safari-new"></a>New/Updated Safari Books and Courses ## 
+
+### Addison-Wesley Professional
+* [Cloud Foundry LiveLessons Video Training](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/cloud-foundry-livelessons/9780134836126/) (Book) by Josh McKenty, Josh Long
+
+### Business Expert Press
+* [A Communication Guide for Investor Relations in an Age of Activism](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/a-communication-guide/9781947098985/) (Book) by Marcia W. DiStaso, David Michaelson, John Gilfeather
+
+### Focal Press
+* [Mixing Audio, 3rd Edition](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/mixing-audio-3rd/9781317508502/) (Book) by Roey Izhaki
+
+### FT Publishing International
+* [Stepping Up](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/stepping-up/9781292186887/) (Book) by Dr. Sarah Wood, Niamh O'Keeffe
+
+### IGI Global
+* [Promoting Interdisciplinarity in Knowledge Generation and Problem Solving](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/promoting-interdisciplinarity-in/9781522538783/) (Book) by Mohammed Nasser Al-Suqri, Abdullah Khamis Al-Kindi, Salim Said AlKindi, Naifa Eid Saleem
+
+### O'Reilly Media, Inc.
+* [Practical Tableau](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/practical-tableau/9781491977309/) (Book) by Ryan Sleeper
+* [Stream Processing with Apache Flink](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/stream-processing-with/9781491974285/) (Book) by Vasiliki Kalavri, Fabian Hueske
+
+### Pearson Business
+* [The Rules of People](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/the-rules-of/9781292191652/) (Book) by Richard Templar
+
+### Pearson IT Certification
+* [CompTIA Security+ (SY0-501)](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/comptia-security-sy0-501/9780134807553/) (Book) by Sari Greene
+
+### Project Management Institute
+* [How Successful Organizations Implement Change](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/how-successful-organizations/9781628253870/) (Book) by Emad E. Aziz, Wanda Curlee
+
+
 {% comment %}
 
-## <a name="safari-new"></a>New/Updated Safari Books and Courses ## 
 
 {% endcomment %}

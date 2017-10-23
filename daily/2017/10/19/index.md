@@ -8,7 +8,6 @@ navigation: '<< [Daily Dose for 2017.10.18](/daily/2017/10/18/) &#124; [Oct 2017
 published: true
 ---
 {% comment %}
-* [New/Updated Safari Books and Courses](#safari-new)
 * [New/Updated Pluralsight Courses](#pluralsight-new)
 {% endcomment %}
 
@@ -25,6 +24,7 @@ published: true
 ## Sections
 * [Books/Videos on Sale (or Free) Today](#sale)
 * [Select New Books and Courses](#select)
+* [New/Updated Safari Books and Courses](#safari-new)
 
 ## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
@@ -238,10 +238,55 @@ Apart from programming, Aditya is passionate about billiards, salsa dancing, fit
 
 When he is not busy writing or working on his own projects, Aditya does consulting work with companies to help them launch new software products and games.
 
+## <a name="safari-new"></a>New/Updated Safari Books and Courses ## 
+
+### Cambridge University Press
+* [A Formal Theory of Commonsense Psychology](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/a-formal-theory/9781108506656/) (Book) by Andrew S Gordon, Jerry R. Hobbs
+* [Descriptive Complexity, Canonisation, and Definable Graph Structure Theory](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/descriptive-complexity-canonisation/9781108227988/) (Book) by Jose Manual Magallanes Reyes
+
+### Focal Press
+* [Audio Engineering 101, 2nd Edition](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/audio-engineering-101/9781317210153/) (Book) by Tim Dittmar
+* [Immersive Sound](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/immersive-sound/9781317480105/) (Book) by Agnieszka Roginska, Paul Geluso
+
+### iCollege
+* [Agile Project Management](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/agile-project-management/100000006A0606/) (Video) by iCollege
+* [Cisco 200-355: Implementing Cisco Wireless Network Fundamentals](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/cisco-200-355-implementing/100000006A0640/) (Video) by iCollege
+* [Cisco 210-065 CIVND: Implementing Cisco Video Network Devices](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/cisco-210-065-civnd/100000006A0609/) (Video) by iCollege
+* [Cyber Security Awareness and Prevention](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/cyber-security-awareness/100000006A0604/) (Video) by iCollege
+* [Microsoft Access 2016](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/microsoft-access-2016/100000006A0608/) (Video) by iCollege
+* [Prince 2® Practitioner](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/prince-2-practitioner/100000006A0636/) (Video) by iCollege
+
+### IGI Global
+* [Evolving Entrepreneurial Strategies for Self-Sustainability in Vulnerable American Communities](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/evolving-entrepreneurial-strategies/9781522528609/) (Book) by Luis Javier Sanchez-Barrios, Liyis Gomez-Nunez
+* [Fostering Reflective Teaching Practice in Pre-Service Education](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/fostering-reflective-teaching/9781522529637/) (Book) by Zineb Djoub
+* [Green Initiatives for Business Sustainability and Value Creation](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/green-initiatives-for/9781522526629/) (Book) by Arun Kumar Paul, Dipak Kumar Bhattacharyya, Sandip Anand
+* [International Journal of Ambient Computing and Intelligence (IJACI) Volume 9, Issue 1](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/international-journal-of/9781522543527/) (Book) by Nilanjan Dey
+* [International Journal of Applied Geospatial Research (IJAGR) Volume 9, Issue 1](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/international-journal-of/9781522544487/) (Book) by Donald Patrick Albert
+* [International Journal of E-Planning Research (IJEPR) Volume 7, Issue 1](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/international-journal-of/9781522546450/) (Book) by Carlos Silva
+* [International Journal of Intelligent Information Technologies (IJIIT) Volume 14, Issue 1](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/international-journal-of/9781522542780/) (Book) by Vijayan Sugumaran
+* [International Journal of Knowledge-Based Organizations (IJKBO) Volume 8, Issue 1](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/international-journal-of/9781522545583/) (Book) by John Wang
+* [International Journal of Mobile Human Computer Interaction (IJMHCI) Volume 10, Issue 1](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/international-journal-of/9781522544104/) (Book) by Joanna Lumsden
+* [International Journal of Public Administration in the Digital Age (IJPADA) Volume 5, Issue 1](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/international-journal-of/9781522546979/) (Book) by Christopher Reddick, Manuel Pedro Rodríguez Bolívar
+* [International Journal of Reliable and Quality E-Healthcare (IJRQEH) Volume 7, Issue 1](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/international-journal-of/9781522546412/) (Book) by Anastasius Moumtzoglou
+* [Journal of Global Information Management (JGIM) Volume 26, Issue 1](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/journal-of-global/9781522542162/) (Book) by Zuopeng Zhang
+
+### O'Reilly Media, Inc.
+* [Learning Julia: Introduction to Types](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/learning-julia-introduction/9781491999646/) (Book) by Spencer Russell, Leah Hanson
+* [Using SVG with CSS3 and HTML5](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/using-svg-with/9781491921968/) (Book) by Dudley Storey, Kurt Cagle, Amelia Bellamy-Royds
+
+### Packt Publishing
+* [3D Game Development with Unity 5.x](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/3d-game-development/9781788297226/) (Video) by Adam Maxwell
+* [Learning Ceph - Second Edition](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/learning-ceph-/9781787127913/) (Book) by Anthony D'Atri, Vaibhav Bhembre, Karan Singh
+* [Machine Learning: End-to-End guide for Java developers](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/machine-learning-end-to-end/9781788622219/) (Book) by Richard M. Reese, Jennifer L. Reese, Boštjan Kaluža, Dr. Uday Kamath, Krishna Choppella
+* [Tech Explorations™ Make an Arduino Robot](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/tech-explorationstm-make/9781788625289/) (Video) by Peter Dalmaris, Vagelis Chantzis
+
+### Pearson Education
+* [CompTIA® Security+ SY0-501 Cert Guide](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/comptia-security-sy0-501/9780134781051/) (Book) by David L. Prowse
+
+### Pearson IT Certification
+* [Certified Information Systems Auditor (CISA) Cert Guide](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/certified-information-systems/9780134757605/) (Book) by Michael Gregg, Robert Johnson
 
 {% comment %}
-
-## <a name="safari-new"></a>New/Updated Safari Books and Courses ## 
 
 ## <a name="pluralsight-new"></a>New/Updated Pluralsight Courses ## 
 

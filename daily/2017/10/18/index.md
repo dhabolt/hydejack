@@ -8,13 +8,13 @@ navigation: '<< [Daily Dose for 2017.10.17](/daily/2017/10/17/) &#124; [Oct 2017
 published: true
 ---
 {% comment %}
-* [New/Updated Safari Books and Courses](#safari-new)
 * [New/Updated Pluralsight Courses](#pluralsight-new)
 {% endcomment %}
 
 ## Sections
 * [Books/Videos on Sale (or Free) Today](#sale)
 * [Select New Books and Courses](#select)
+* [New/Updated Safari Books and Courses](#safari-new)
 
 <div class="image-box"><a href="{{site.url}}/daily/2017/10/18/#packt-daily"><img class="resize" alt="Practical Data Analysis, Second Edition" src="/assets/img/learning/packt/practical-data-analysis-second-edition.jpg"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/10/18/#apress-daily"><img class="resize" alt="Introducing Regular Expressions" src="/assets/img/learning/apress/introducing-regular-expressions.png"/></a></div>
@@ -187,9 +187,28 @@ Designed for front-end and full-stack web developers with a basic understanding 
 #### About the instructor
 **Zac Braddy** is a full stack developer whose career has seen him working with almost every tech you can think of. He has blogged extensively about React and maintains a popular YouTube channel on React.
 
-{% comment %}
-
 ## <a name="safari-new"></a>New/Updated Safari Books and Courses ## 
+
+### iCollege
+* [Adobe InDesign](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/adobe-indesign/100000006A0632/) (Video) by iCollege
+* [Adobe Photoshop](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/adobe-photoshop/100000006A0645/) (Video) by iCollege
+* [CompTIA MOBILITY +](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/comptia-mobility/100000006A0644/) (Video) by iCollege
+* [Prince 2 Foundation](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/prince-2-foundation/100000006A0637/) (Video) by iCollege
+
+### IGI Global
+* [International Journal of Cyber Warfare and Terrorism (IJCWT) Volume 7, Issue 4](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/international-journal-of/9781522514084/) (Book) by Graeme Pye, Brett van Niekerk
+* [International Journal of Enterprise Information Systems (IJEIS) Volume 13, Issue 4](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/international-journal-of/9781522511380/) (Book) by Madjid Tavana
+
+### O'Reilly Media, Inc.
+* [Learning Julia: Abstract, Concrete, and Parametric Types](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/learning-julia-abstract/9781491999585/) (Book) by Spencer Russell, Leah Hanson
+
+### Packt Publishing
+* [Learn By Example : Qlikview](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/learn-by-example/9781788834391/) (Video) by Loonycorn
+
+### Project Management Institute
+* [A Guide to the Project Management Body of Knowledge ( PMBOK® Guide )—Sixth Edition (ENGLISH)](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/a-guide-to/9781628253900/) (Book) by Project Management Institute
+
+{% comment %}
 
 ## <a name="pluralsight-new"></a>New/Updated Pluralsight Courses ## 
 {% endcomment %}

@@ -8,10 +8,7 @@ navigation: '<< [Daily Dose for 2017.10.19](/daily/2017/10/19/) &#124; [Oct 2017
 published: true
 ---
 {% comment %}
-## Sections
-* [Books/Videos on Sale (or Free) Today](#sale)
 * [Select New Books and Courses](#select)
-* [New/Updated Safari Books and Courses](#safari-new)
 * [New/Updated Pluralsight Courses](#pluralsight-new)
 {% endcomment %}
 
@@ -20,6 +17,10 @@ published: true
 <div class="image-box"><a href="{{site.url}}/daily/2017/10/20/#manning-daily-1"><img class="resize" alt="Machine Learning with TensorFlow" src="/assets/img/learning/manning/machine-learning-with-tensorflow-meap.png"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/10/20/#manning-daily-2"><img class="resize" alt="Practical Recommender Systems" src="/assets/img/learning/manning/practical-recommender-systems-meap.png"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/10/20/#manning-daily-3"><img class="resize" alt="Machine Learning in Action" src="/assets/img/learning/manning/machine-learning-in-action.png"/></a></div>
+
+## Sections
+* [Books/Videos on Sale (or Free) Today](#sale)
+* [New/Updated Safari Books and Courses](#safari-new)
 
 ## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
@@ -141,11 +142,21 @@ Readers need no prior experience with machine learning or statistical processing
 #### About the author
 **Peter Harrington** is a professional developer and data scientist. He holds five US patents and his work has been published in numerous academic journals.
 
+## <a name="safari-new"></a>New/Updated Safari Books and Courses ## 
+
+### IGI Global
+* [Handbook of Research on Sociopolitical Factors Impacting Economic Growth in Islamic Nations](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/handbook-of-research/9781522529392/) (Book) by Suleyman Ozdemir, Seyfettin Erdogan, Ayfer Gedikli
+
+### Maker Media, Inc
+* [Fabric and Fiber Inventions](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/fabric-and-fiber/9781680452266/) (Book) by Kathy Ceceri
+
+### O'Reilly Media, Inc.
+* [Kubernetes: Up and Running](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/kubernetes-up-and/9781491935668/) (Book) by Kelsey Hightower, Brendan Burns, Joe Beda
+* [Velocity Conference 2017 - London, UK](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/velocity-conference-2017/9781491985335/) (Book) by O'Reilly Media, Inc.
+
 
 {% comment %}
 ## <a name="select"></a>Select New Books and Courses ##
-
-## <a name="safari-new"></a>New/Updated Safari Books and Courses ## 
 
 ## <a name="pluralsight-new"></a>New/Updated Pluralsight Courses ## 
 {% endcomment %}

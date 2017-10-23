@@ -4,14 +4,11 @@ title:  'Daily Dose for 2017.10.22'
 date:   2017-10-22 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
-navigation: '<< [Daily Dose for 2017.10.21](/daily/2017/10/21/) &#124; [Oct 2017](/daily/2017/10/) &#124; [2017](/daily/2017/) &#124; Daily Dose for 2017.10.23 >>'
+navigation: '<< [Daily Dose for 2017.10.21](/daily/2017/10/21/) &#124; [Oct 2017](/daily/2017/10/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.10.23](/daily/2017/10/22/) >>'
 published: true
 ---
 {% comment %}
-## Sections
-* [Books/Videos on Sale (or Free) Today](#sale)
 * [Select New Books and Courses](#select)
-* [New/Updated Safari Books and Courses](#safari-new)
 * [New/Updated Pluralsight Courses](#pluralsight-new)
 {% endcomment %}
 
@@ -21,6 +18,10 @@ published: true
 <div class="image-box"><a href="{{site.url}}/daily/2017/10/22/#manning-daily-1"><img class="resize" alt="Visualizing Graph Data" src="/assets/img/learning/manning/visualizing-graph-data.png"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/10/22/#manning-daily-2"><img class="resize" alt="Data Munging with R" src="/assets/img/learning/manning/data-munging-with-r.png"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/10/22/#manning-daily-3"><img class="resize" alt="The Art of Data Usability" src="/assets/img/learning/manning/the-art-of-data-usability.png"/></a></div>
+
+## Sections
+* [Books/Videos on Sale (or Free) Today](#sale)
+* [New/Updated Safari Books and Courses](#safari-new)
 
 ## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
@@ -171,11 +172,27 @@ Written for readers comfortable with data management and common data formats suc
 #### About the author
 **Tryggvi Björgvinsson** is the head of IT and dissemination at Statistics Iceland. He holds a Ph.D. in software engineering.
 
+## <a name="safari-new"></a>New/Updated Safari Books and Courses ## 
+
+### Addison-Wesley Professional
+* [ReactJS Fundamentals, Second Edition](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/reactjs-fundamentals-second/9780134854670/) (Book) by Charles David Crawford
+
+### Packt Publishing
+* [Advanced Continuous Delivery Pipeline](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/advanced-continuous-delivery/9781788832939/) (Video) by Rafał Leszko
+* [Beginning CentOS 7 Administration](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/beginning-centos-7/9781788294973/) (Video) by Oliver Pelz
+* [From 0 to 1: Data Structures & Algorithms in Java](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/from-0-to/9781788626767/) (Video) by Loonycorn
+* [Getting Started with jQuery 3](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/getting-started-with/9781788836173/) (Video) by Adam Boduch, Jonathan Chaffer, Karl Swedberg
+* [Industrial Cybersecurity](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/industrial-cybersecurity/9781788395151/) (Book) by Pascal Ackerman
+* [OAuth 2.0 Cookbook](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/oauth-20-cookbook/9781788295963/) (Book) by Adolfo Eloy Nascimento
+
+### Project Management Institute
+* [Agile Approaches on Large Projects in Large Organizations](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/agile-approaches-on/9781628253832/) (Book) by Brian Hobbs, Yvan Petit
+* [Agile Practice Guide (ENGLISH)](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/agile-practice-guide/9781628253993/) (Book) by Project Management Institute
+* [Practitioner's Guide to Program Management](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/practitioners-guide-to/9781628253696/) (Book) by Irene Didinsky MBA, PMP
+* [Q & As for the PMBOK® Guide Sixth Edition](http://www.anrdoezrs.net/links/8423497/type/dlg/https://www.safaribooksonline.com/library/view/q-as/9781628254624/) (Book) by Project Management Institute
 
 {% comment %}
 ## <a name="select"></a>Select New Books and Courses ##
-
-## <a name="safari-new"></a>New/Updated Safari Books and Courses ## 
 
 ## <a name="pluralsight-new"></a>New/Updated Pluralsight Courses ## 
 {% endcomment %}
