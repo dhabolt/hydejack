@@ -5,7 +5,7 @@ date:   2017-09-01 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
 published: true
-navigation: '<< Daily Dose for August 2017 &#124; [2017](/daily/2017/) &#124; Daily Dose for October 2017 >>'
+navigation: '<< Daily Dose for August 2017 &#124; [2017](/daily/2017/) &#124; Daily Dose for [October 2017](/daily/2017/10/) >>'
 pubdays: 
     - day: 2017.09.30
       path: /daily/2017/09/30/

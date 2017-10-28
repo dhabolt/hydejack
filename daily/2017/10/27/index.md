@@ -4,7 +4,7 @@ title:  'Daily Dose for 2017.10.27'
 date:   2017-10-27 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
-navigation: '<< [Daily Dose for 2017.10.26](/daily/2017/10/26/) &#124; [Oct 2017](/daily/2017/10/) &#124; [2017](/daily/2017/) &#124; Daily Dose for 2017.10.28 >>'
+navigation: '<< [Daily Dose for 2017.10.26](/daily/2017/10/26/) &#124; [Oct 2017](/daily/2017/10/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.10.28](/daily/2017/10/28/) >>'
 published: true
 ---
 {% comment %}
@@ -26,7 +26,7 @@ These deals are good for today only, so be sure to take advantage of the pricing
 
 ### <a name="packt-daily"></a><small>Free</small> [Object-Oriented JavaScript, Second Edition](https://www.packtpub.com/packt/offers/free-learning) 
 [![Object-Oriented JavaScript, Second Edition](/assets/img/learning/packt/object-oriented-javascript-second-edition.png)](https://www.packtpub.com/packt/offers/free-learning)
-[Free Packt eBook](https://www.packtpub.com/packt/offers/free-learning) by Stoyan Stefanov, Kumar Chetan Sharma (valid through 10/276 at 19:00 EST). This book covers JavaScript, Object-Oriented Programming, Closures, Prototype, Firebug, Singleton, Decorator, Observer.
+[Free Packt eBook](https://www.packtpub.com/packt/offers/free-learning) by Stoyan Stefanov, Kumar Chetan Sharma (valid through 10/27 at 19:00 EST). This book covers JavaScript, Object-Oriented Programming, Closures, Prototype, Firebug, Singleton, Decorator, Observer.
 
 #### Publisher's Description
 **Learn everything you need to know about OOJS in this comprehensive guide**

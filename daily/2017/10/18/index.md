@@ -11,11 +11,6 @@ published: true
 * [New/Updated Pluralsight Courses](#pluralsight-new)
 {% endcomment %}
 
-## Sections
-* [Books/Videos on Sale (or Free) Today](#sale)
-* [Select New Books and Courses](#select)
-* [New/Updated Safari Books and Courses](#safari-new)
-
 <div class="image-box"><a href="{{site.url}}/daily/2017/10/18/#packt-daily"><img class="resize" alt="Practical Data Analysis, Second Edition" src="/assets/img/learning/packt/practical-data-analysis-second-edition.jpg"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/10/18/#apress-daily"><img class="resize" alt="Introducing Regular Expressions" src="/assets/img/learning/apress/introducing-regular-expressions.png"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/10/18/#manning-daily-1"><img class="resize" alt="Rust in Action" src="/assets/img/learning/manning/rust-in-action-meap.png"/></a></div>
@@ -23,6 +18,10 @@ published: true
 <div class="image-box"><a href="{{site.url}}/daily/2017/10/18/#manning-daily-3"><img class="resize" alt="Get Programming with Haskell" src="/assets/img/learning/manning/get-programming-with-haskell.png"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/10/18/#new1"><img class="resize" alt="React in Motion" src="/assets/img/learning/manning/react-in-motion-meap.png"/></a></div>
 
+## Sections
+* [Books/Videos on Sale (or Free) Today](#sale)
+* [Select New Books and Courses](#select)
+* [New/Updated Safari Books and Courses](#safari-new)
 
 ## <a name="sale"></a>Books/Videos on Sale (or Free) Today ##
 These deals are good for today only, so be sure to take advantage of the pricing before the offers expire.
