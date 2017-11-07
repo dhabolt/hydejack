@@ -4,7 +4,7 @@ title:  'Daily Dose for 2017.11.05'
 date:   2017-11-05 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
-navigation: '<< [Daily Dose for 2017.11.04](/daily/2017/11/04/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; Daily Dose for 2017.11.06 >>'
+navigation: '<< [Daily Dose for 2017.11.04](/daily/2017/11/04/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.11.06](/daily/2017/11/06/) >>'
 published: true
 ---
 <div class="image-box"><a href="{{site.url}}/daily/2017/11/05/#packt-daily"><img class="resize" alt="Mastering Git" src="/assets/img/learning/packt/mastering-git.jpg"/></a></div>
