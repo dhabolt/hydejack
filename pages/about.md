@@ -19,8 +19,6 @@ Periodic ramblings about software development topics that interest me.
 The site is currently statically generated using [Jekyll] and the [hydejack] theme by [qwtel]. The Jekyll application is run either under the [Windows Subsystem for Linux][linux] or in a [Docker] container (depending on which of my computers I happen to be using at the time).
  
 ### Warning: A Long Rambling About Me
-For those interested, here's my [current resume][Resume]{:target="_blank"} (I'm looking).
-
 My programming journey began in Oregon in 1985 when my wife and I attended a vacation timeshare presentation, where the free prize for staying through the entire presentation was an Atari 600XL computer (with a whopping 16k of RAM). We got the computer, and no, we didn't buy the timeshare.
 
 Since the internet was a few years away, learning to program meant either going back to school or visiting libraries. At the time, going back to school wasn't an option, so it was off to the library to see what it had to say about computers. 
@@ -42,4 +40,3 @@ John Dhabolt, 2017.08.17
 [linux]: https://msdn.microsoft.com/en-us/commandline/wsl/about
 [Docker]: https://www.docker.com/
 [4D]: https://4d.com
-[Resume]: /assets/pdf/Resume-2017-08-18-Public.pdf
