@@ -4,7 +4,7 @@ title:  'Daily Dose for 2017.11.10'
 date:   2017-11-10 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
-navigation: '<< [Daily Dose for 2017.11.09](/daily/2017/11/09/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; Daily Dose for 2017.11.11 >>'
+navigation: '<< [Daily Dose for 2017.11.09](/daily/2017/11/09/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.11.11](/daily/2017/11/11/) >>'
 published: true
 ---
 <div class="image-box"><a href="{{site.url}}/daily/2017/11/10/#packt-daily"><img class="resize" alt="Mastering Wireshark" src="/assets/img/learning/packt/mastering-wireshark.jpg"/></a></div>
