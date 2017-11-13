@@ -4,7 +4,7 @@ title:  'Daily Dose for 2017.11.11'
 date:   2017-11-11 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
-navigation: '<< [Daily Dose for 2017.11.10](/daily/2017/11/10/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; Daily Dose for 2017.11.12 >>'
+navigation: '<< [Daily Dose for 2017.11.10](/daily/2017/11/10/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.11.12](/daily/2017/11/12/) >>'
 published: true
 ---
 <div class="image-box"><a href="{{site.url}}/daily/2017/11/11/#packt-daily"><img class="resize" alt="Mastering .NET Machine Learning" src="/assets/img/learning/packt/mastering-net-machine-learning.jpg"/></a></div>
@@ -12,7 +12,6 @@ published: true
 <div class="image-box"><a href="{{site.url}}/daily/2017/11/11/#manning-daily-1"><img class="resize" alt="Learn Linux in a Month of Lunches" src="/assets/img/learning/manning/learn-linux-in-a-month-of-lunches-final.png"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/11/11/#manning-daily-2"><img class="resize" alt="Learn Cisco Network Administration in a Month of Lunches" src="/assets/img/learning/manning/learn-cisco-network-administration-in-a-month-of-lunches.png"/></a></div>
 <div class="image-box"><a href="{{site.url}}/daily/2017/11/11/#manning-daily-3"><img class="resize" alt="Learn System Center Configuration Manager in a Month of Lunches" src="/assets/img/learning/manning/learn-system-center-configuration-manager-in-a-month-of-lunches.png"/></a></div>
-
 <div class="image-box"><a href="{{site.url}}/daily/2017/11/11/#new1"><img class="resize" alt="Adopting Elixir" src="/assets/img/learning/pragmatic/adopting-elixir.jpg"/></a></div>
 
 ## Sections
