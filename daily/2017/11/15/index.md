@@ -4,7 +4,7 @@ title:  'Daily Dose for 2017.11.15'
 date:   2017-11-15 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
-navigation: '<< [Daily Dose for 2017.11.14](/daily/2017/11/14/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; Daily Dose for 2017.11.16 >>'
+navigation: '<< [Daily Dose for 2017.11.14](/daily/2017/11/14/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.11.16](/daily/2017/11/16/) >>'
 published: true
 ---
 <div class="image-box"><a href="{{site.url}}/daily/2017/11/15/#packt-daily"><img class="resize" alt="Learning Predictive Analytics with Python" src="/assets/img/learning/packt/learning-predictive-analytics-with-python.png"/></a></div>
