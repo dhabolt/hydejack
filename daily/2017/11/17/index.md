@@ -4,7 +4,7 @@ title:  'Daily Dose for 2017.11.17'
 date:   2017-11-17 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
-navigation: '<< [Daily Dose for 2017.11.16](/daily/2017/11/16/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; Daily Dose for 2017.11.18 >>'
+navigation: '<< [Daily Dose for 2017.11.16](/daily/2017/11/16/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.11.18](/daily/2017/11/18/) >>'
 published: true
 ---
 <div class="image-box"><a href="{{site.url}}/daily/2017/11/17/#packt-daily"><img class="resize" alt="Learning Scrapy" src="/assets/img/learning/packt/learning-scrapy.png"/></a></div>
