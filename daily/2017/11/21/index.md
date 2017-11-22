@@ -4,7 +4,7 @@ title:  'Daily Dose for 2017.11.21'
 date:   2017-11-21 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
-navigation: '<< [Daily Dose for 2017.11.20](/daily/2017/11/20/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; Daily Dose for 2017.11.22 >>'
+navigation: '<< [Daily Dose for 2017.11.20](/daily/2017/11/20/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.11.22](/daily/2017/11/22/) >>'
 published: true
 ---
 <div class="image-box"><a href="{{site.url}}/daily/2017/11/21/#packt-daily"><img class="resize" alt="Artificial Intelligence with Python" src="/assets/img/learning/packt/artificial-intelligence-with-python.jpg"/></a></div>
