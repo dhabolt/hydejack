@@ -7,6 +7,8 @@ comments: true
 published: true
 navigation: '<< Daily Dose for [October 2017](/daily/2017/10/) &#124; [2017](/daily/2017/) &#124; Daily Dose for December 2017 >>'
 pubdays: 
+    - day: 2017.11.23
+      path: /daily/2017/11/23/
     - day: 2017.11.22
       path: /daily/2017/11/22/
     - day: 2017.11.21

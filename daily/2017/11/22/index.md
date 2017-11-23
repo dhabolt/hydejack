@@ -4,7 +4,7 @@ title:  'Daily Dose for 2017.11.22'
 date:   2017-11-22 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
-navigation: '<< [Daily Dose for 2017.11.21](/daily/2017/11/21/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; Daily Dose for 2017.11.23 >>'
+navigation: '<< [Daily Dose for 2017.11.21](/daily/2017/11/21/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.11.23](/daily/2017/11/23/) >>'
 published: true
 ---
 <div class="image-box"><a href="{{site.url}}/daily/2017/11/22/#packt-daily"><img class="resize" alt="Principles of Data Science" src="/assets/img/learning/packt/principles-of-data-science.png"/></a></div>
