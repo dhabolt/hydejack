@@ -4,7 +4,7 @@ title:  'Daily Dose for 2017.11.24'
 date:   2017-11-24 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
-navigation: '<< [Daily Dose for 2017.11.23](/daily/2017/11/23/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; Daily Dose for 2017.11.25 >>'
+navigation: '<< [Daily Dose for 2017.11.23](/daily/2017/11/23/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.11.25](/daily/2017/11/25/) >>'
 published: true
 ---
 <div class="image-box"><a href="{{site.url}}/daily/2017/11/24/#packt-daily"><img class="resize" alt="Node.js Design Patterns, Second Edition" src="/assets/img/learning/packt/node-js-design-patterns-second-edition.jpg"/></a></div>
