@@ -4,7 +4,7 @@ title:  'Daily Dose for 2017.11.26'
 date:   2017-11-26 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
-navigation: '<< [Daily Dose for 2017.11.25](/daily/2017/11/25/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; Daily Dose for 2017.11.27 >>'
+navigation: '<< [Daily Dose for 2017.11.25](/daily/2017/11/25/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.11.27](/daily/2017/11/27/) >>'
 published: true
 ---
 <div class="image-box"><a href="{{site.url}}/daily/2017/11/26/#packt-daily"><img class="resize" alt="ASP.NET Core and Angular 2" src="/assets/img/learning/packt/asp-net-core-and-angular-2.png"/></a></div>
