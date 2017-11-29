@@ -4,7 +4,7 @@ title:  'Daily Dose for 2017.11.27'
 date:   2017-11-27 00:00:00 -0400
 excerpt_separator: <!--more-->
 comments: true
-navigation: '<< [Daily Dose for 2017.11.26](/daily/2017/11/26/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; Daily Dose for 2017.11.28 >>'
+navigation: '<< [Daily Dose for 2017.11.26](/daily/2017/11/26/) &#124; [Nov 2017](/daily/2017/11/) &#124; [2017](/daily/2017/) &#124; [Daily Dose for 2017.11.28](/daily/2017/11/28/) >>'
 published: true
 ---
 <div class="image-box"><a href="{{site.url}}/daily/2017/11/27/#packt-daily"><img class="resize" alt="Scientific Computing with Python 3" src="/assets/img/learning/packt/scientific-computing-with-python-3.png"/></a></div>
